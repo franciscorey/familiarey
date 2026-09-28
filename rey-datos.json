@@ -10,11 +10,39 @@
     "portada": "portada",
     "intro": {
       "titulo": "Todo empezó con un comerciante de Catemu y una ortografía muy relajada.",
-      "texto": "Durante casi cien años los Rey aparecen en los papeles como Rey, Reyes, Beas, Veas o Vea, según el humor del escribiente. Este archivo junta esas huellas, algunas fotos y lo que se cuenta en las sobremesas para armar el camino que va del Valle de Aconcagua hasta un almacén de Curicó."
+      "texto": "Durante casi cien años los Rey aparecen en los papeles como Rey, Reyes, Reies, según el humor del escribiente. Este archivo junta esas huellas, algunas fotos y lo que se cuenta en las sobremesas para armar el camino que va del Valle de Aconcagua hasta un almacén de Curicó."
     },
-    "cierre": "Reconstrucción original de Francisco Rey Villar, octubre de 2015 · Archivo en construcción"
+    "cierre": "Reconstrucción original de Francisco Rey Villar, de 2013 a la fecha · Archivo en construcción"
   },
   "familias": {
+    "monzon": { 
+        "nombre": "Rey Monzzon", 
+        "color": "#94828f", 
+        "lugar": "Valle del Aconcagua", 
+        "periodo": "c. 1715 – 1780", 
+        "resumen": "El patriarca colonial: Toribio Rey y los primeros criollos dispersos bajo el sistema de la Capitanía General de Chile." 
+    },
+    "arias": { 
+        "nombre": "Rey Arias", 
+        "color": "#c2a68f", 
+        "lugar": "Villa de San Felipe el Real", 
+        "periodo": "c. 1740 – 1810", 
+        "resumen": "El arraigo urbano: Francisco y el nacimiento de la villa bajo el amparo de un linaje de funcionarios y milicias coloniales." 
+    },
+    "soto": { 
+        "nombre": "Rey Soto", 
+        "color": "#a89b82", 
+        "lugar": "San Felipe · Catemu", 
+        "periodo": "c. 1770 – 1840", 
+        "resumen": "La transición a la República: León, Mónica y las rutas de arriería que conectaron el interior con los cerros del puerto." 
+    },
+     "jara": { 
+        "nombre": "Rey Jara", 
+        "color": "#a89b82", 
+        "lugar": "Punta de los Reyes · Catemu", 
+        "periodo": "c. 1790 – 1850", 
+        "resumen": "El hogar de ño Bruno y Dolores Jara, testigos de la transformación de los cerros del puerto y las quebradas del interior." 
+    },
     "jara": { "nombre": "Rey Jara", "color": "#899487", "lugar": "Catemu", "periodo": "c. 1846 – 1906", "resumen": "El origen conocido: Bruno, Dolores y su hijo Vicente, comerciante y agricultor." },
     "veas": { "nombre": "Rey Veas", "color": "#b18c87", "lugar": "Catemu · Valparaíso", "periodo": "1874 – 1914", "resumen": "El primer hogar de Vicente, cortado en 1881 por la muerte de Carmen." },
     "berrios": { "nombre": "Rey Berrios", "color": "#8296a0", "lugar": "Catemu · Quillota", "periodo": "1881 – 1915", "resumen": "El segundo hogar de Vicente, donde crecieron también los hijos de Carmen." },
