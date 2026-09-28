@@ -121,6 +121,7 @@
       { "t": "p", "x": "Es en esta época donde se consolida el oficio familiar que cruzaría los cerros: la arriería. Las mulas cargadas con el trigo, los cueros y el cobre del Valle del Aconcagua bajaban por los senderos cordilleranos directo hacia las bodegas del emergente puerto de Valparaíso." },
       { "t": "contexto", "items": [
         { "k": "Contexto", "t": "El lazo con el Puerto", "x": "A fines del siglo XVIII, Valparaíso empieza a crecer gracias al comercio con el Virreinato del Perú. El Valle del Aconcagua se convierte en su despensa natural, obligando a familias del interior a pasar meses viajando a lomo de mula hacia la costa." } ] } ] },
+    
     { "id": "c1800", "anio": "c. 1800", "lugar": "Siete Hermanas · Catemu", "titulo": "El viejo ño Bruno y las palmas que bajaban al mar", "familia": "reysoto", "bloques": [
       { "t": "p", "x": "Alrededor de 1800 nace [[bruno-rey|Bruno Rey]], conocido en las crónicas como el «ño Bruno», junto a su hermano Basilio. Hijo de León y Mónica, Bruno se convierte en la memoria viva de la familia. Aunque su hogar definitivo junto a Dolores Jara vuelve a las tierras de Catemu, en su juventud habitó y trabajó en los indómitos límites de la gigantesca Hacienda de las Siete Hermanas, en los cerros de Valparaíso." },
       { "t": "p", "x": "Su paso por la costa quedó inmortalizado por el intelectual Benjamín Vicuña Mackenna en 1877. En sus escritos, el historiador rescata el testimonio de Bruno, un anciano respetado a quien llama cariñosamente «ño Bruno», evocando los brutales temporales coloniales de su juventud donde vio aluviones arrastrar enormes palmas entrelazadas cerro abajo hacia el mar." },
@@ -129,6 +130,7 @@
         { "k": "Contexto", "t": "Las Siete Hermanas", "x": "Antes de ser la ciudad de Viña del Mar, estos terrenos eran una inmensa hacienda colonial densamente poblada por palmas chilenas. Sus habitantes vivían de la explotación de la madera, el carbón y la cotizada miel de palma." },
         { "k": "Una pista", "t": "El respeto del «ño»", "x": "En el Chile rural del siglo XIX, el apócope «ño» (de Señor) no era un insulto; era un tratamiento de profundo respeto comunitario reservado para los hombres mayores que resguardaban la historia del lugar." } ] },
       { "t": "nota", "titulo": "El eslabón perdido", "x": "Este capítulo une formalmente el origen colonial de San Felipe con el terreno en Viña del Mar que Vicente comprará décadas más tarde en 1887. La historia del siglo XIX no hizo más que repetir los caminos que el viejo Bruno ya había recorrido a pie." } ] },
+    
     { "id": "c1846", "anio": "c. 1846", "lugar": "Catemu", "titulo": "Un apellido con muchas maneras de escribirse", "familia": "jara", "bloques": [
       { "t": "p", "x": "Entre 1843 y 1849 nace [[vicente|Vicente Rey Jara]], hijo de [[bruno|Bruno Rey]] y [[dolores|Dolores Jara]]. De ellos sabemos poco más que los nombres. De Vicente, en cambio, sabemos que llegó a ser comerciante en San José de Catemu, con un pie en el negocio y otro en la tierra." },
       { "t": "p", "x": "Aquí conviene una advertencia: en los papeles no somos siempre Rey. Su hermana Margarita, costurera, firmaba «Reyes»; su primer hijo fue bautizado «Reyes Beas». Los curas escribían lo que oían, y a nosotros nos toca leer entre líneas." },
@@ -137,11 +139,13 @@
         { "k": "Contexto", "t": "El Aconcagua de 1875", "x": "El censo de ese año ubica Los Altos de Catemu dentro del departamento de Putaendo, con unos 22 mil habitantes. Solo uno de cada diez sabía leer o escribir, casi todos vivían en ranchos y la gran mayoría trabajaba en la agricultura o de gañán. Los comerciantes, como Vicente, eran una minoría." },
         { "k": "Una pista", "t": "Por qué tantos «c.»", "x": "Las fechas de esta época se reconstruyen con actas, bautizos y edades declaradas de memoria. Cuando dice «c.», significa «cerca de»." } ] },
       { "t": "nota", "titulo": "Lo que sabemos", "x": "El nacimiento de Vicente cae entre 1843 y 1849. Falta encontrar el registro de Bruno y Dolores." } ] },
+    
     { "id": "c1874", "anio": "1874", "lugar": "San José de Catemu", "titulo": "Un matrimonio, cinco hijos y un apellido que cambia de letra", "familia": "veas", "bloques": [
       { "t": "p", "x": "El 19 de enero de 1874 Vicente se casa con [[carmen|María del Carmen Veas Méndez]], nacida en 1851. Su familia venía al parecer de Quillota, pero llevaba años en Catemu. En los papeles ella es Veas, Beas o Vea, según quién anotara." },
       { "t": "p", "x": "Los hijos llegan uno tras otro: [[isaias|Isaías]] (1875, bautizado como «José Isaías Reyes Beas»), [[josev|José Vicente Segundo]] (1876), Carolina (1877) y José Ramón (1879)." },
       { "t": "medio", "id": "firma-vicente" },
       { "t": "cita", "x": "La historia familiar no siempre se conserva en grandes relatos. A veces sobrevive en la firma de un comerciante." } ] },
+    
     { "id": "c1881", "anio": "1881", "lugar": "Catemu", "titulo": "Una madre que falta y una casa que se rearma", "familia": "berrios", "bloques": [
       { "t": "p", "x": "El 28 de enero de 1881 Carmen muere al dar a luz a María del Carmen, su quinta hija. Tenía cerca de treinta años. Isaías, de unos cinco, se queda sin madre." },
       { "t": "p", "x": "En marzo Vicente se casa con [[eleuteria|Eleuteria Berrios Miranda]]. Los hijos de Carmen se crían dentro de la nueva familia, y con los años la casa se llena de medio hermanos, algunos de los cuales no alcanzan a crecer." },
@@ -151,6 +155,7 @@
       { "t": "contexto", "items": [
         { "k": "Contexto", "t": "Chile mira al norte", "x": "Entre 1879 y 1884 el país está en la Guerra del Pacífico y los diarios hablan del desierto. En el valle, mientras tanto, la vida sigue el ritmo de las siembras y las cosechas." },
         { "k": "Una pista", "t": "Un hogar, cuatro domicilios", "x": "Vicente declara vivir en San José, Las Máquinas (nombre antiguo de Catemu), Varillas y Reinoso. Todos son sectores del mismo Catemu." } ] } ] },
+    
     { "id": "c1887", "anio": "1887", "lugar": "Viña del Mar", "titulo": "Un terreno cerca de la Quinta Vergara", "familia": "jara", "bloques": [
       { "t": "p", "x": "En 1887 Vicente compra un terreno y una propiedad en Viña del Mar, en tierras heredadas de Mercedes Álvarez de Vergara. Dos años después, sus hermanas solteras María Jesús y Felipa compran la casa de al lado. Las dos propiedades estaban en calle Álvarez, entre el 300 y el 305, a pocas cuadras de la actual Quinta Vergara." },
       { "t": "contexto", "items": [
@@ -158,6 +163,7 @@
         { "k": "Una pista", "t": "Ir y volver del valle", "x": "La familia ya no se movía solo entre pueblos del valle. Tenía un pie en la costa, a un tren de distancia." } ] },
       { "t": "medio", "id": "postal-1895" },
       { "t": "nota", "titulo": "Una postal con historia", "x": "Adelaida Fajardo de Berrios, cuñada de Eleuteria, conocía a Margarita Segovia. Una postal de 1895 con la imagen de Margarita, dirigida a Adelaida, llegó hasta nosotros. Margarita volverá a aparecer en esta historia." } ] },
+    
     { "id": "c1903", "anio": "1903", "lugar": "San Esteban · Catemu", "titulo": "La huida de Isaías y Margarita", "familia": "segovia", "bloques": [
       { "t": "p", "x": "El 8 de enero de 1903 [[isaias|Isaías Rey Veas]], comerciante de 27 años, se casa con [[margarita-segovia|Margarita Segovia Castillo]] en la casa de los Segovia, en calle Foncea, San Esteban. Su padre, [[santiago|Santiago Segovia]], acababa de enviudar." },
       { "t": "p", "x": "La historia familiar cuenta que Santiago no aceptó de buena gana la relación y que la pareja «huyó» de la casa. Sea cierto o no, terminaron viviendo en la hijuela La Higuera, en la Hacienda de Catemu, donde el 9 de octubre nace [[laura|Laura Noemí]]." },
@@ -167,6 +173,16 @@
       { "t": "contexto", "items": [
         { "k": "Contexto", "t": "La Hacienda de Catemu", "x": "La Higuera, San José, Varillas y Reinoso eran hijuelas de la Hacienda de Catemu, propiedad de los García-Huidobro. Aún se vivía del inquilinaje: familias que pagaban arriendo por vivir y trabajar la tierra, siembras de trigo y cebada, chacras de maíz y papa y algo de tabaco." },
         { "k": "Contexto", "t": "Dos ciudades, dos aires", "x": "En San Felipe mandaba el tono conservador y señorial de las haciendas, y Los Andes, con su ir y venir de gente y mercaderías, tenía aire de puerto. En 1910 el Ferrocarril Trasandino reforzó ese carácter." } ] } ] },
+    
+    { "id": "c1906", "anio": "1906", "lugar": "Valparaíso · Catemu", "titulo": "La noche en que la tierra sepultó al patriarca", "familia": "jara", "bloques": [
+      { "t": "p", "x": "El jueves 16 de agosto de 1906, a las 19:55 de la tarde, la historia de la zona central se parte en dos. Un devastador terremoto de magnitud 8.2 destruye gran parte del puerto de Valparaíso, fractura los suelos de Viña del Mar y colapsa los viejos muros de adobe en las haciendas del Valle del Aconcagua." },
+      { "t": "p", "x": "Esa misma noche, en medio del ruido ensordecedor de la tierra y el caos de los incendios que iluminaban las ruinas, fallece [[vicente|Vicente Rey Jara]]. El comerciante que había conectado los dos mundos de la familia—el campo interior y la costa—se va de golpe, dejando a sus hijos repartidos ante un país que debe empezar a reconstruirse desde los escombros." },
+      { "t": "medio", "id": "terremoto-1906" },
+      { "t": "contexto", "items": [
+        { "k": "Contexto", "t": "El cataclismo de 1906", "x": "El sismo duró casi cuatro minutos seguidos y destruyó entre el 60% y el 80% de las edificaciones de la región. El Almendral en Valparaíso y decenas de chalets en Viña del Mar quedaron reducidos a polvo. La catástrofe dejó más de 3.000 muertos y obligó a las familias sobrevivientes a dormir a la intemperie en plazas y cerros durante semanas." },
+        { "k": "Una pista", "t": "Un silencio en los papeles", "x": "La coincidencia matemática de su muerte con el día exacto del terremoto explica la dispersión posterior de los hermanos. Con la muerte del padre y la destrucción de la infraestructura regional, los hogares de los Rey se rearmaron lejos de los domicilios comerciales originales de Catemu." } ] },
+      { "t": "nota", "titulo": "La memoria del desastre", "x": "Para Isaías Rey Veas, establecido en Catemu con sus primeros hijos pequeños, la pérdida de su padre en medio del sismo más violento del siglo debió ser un golpe de desolación absoluto que alteró los planes de toda la descendencia." } ] },
+    
     { "id": "c1909", "anio": "1909", "lugar": "Catemu", "titulo": "El año en que la casa se rompe", "familia": "segovia", "bloques": [
       { "t": "p", "x": "El 7 de junio de 1909 nace [[jose-vicente|José Vicente Rey Segovia]], el quinto hijo. Al parecer por complicaciones del parto, Margarita muere ese año. Tenía unos 34 años." },
       { "t": "cita", "x": "De ayer nacido, hijo legítimo de Isaías Rey y Margarita Segovia, feligreses de esta parroquia." },
@@ -174,11 +190,13 @@
       { "t": "medio", "id": "bautizos" },
       { "t": "medio", "id": "capilla" },
       { "t": "nota", "titulo": "Pregunta abierta", "x": "Una hipótesis dice que Isaías murió antes de 1914, según un índice de defunciones del Registro Civil que aún no se ha revisado completo. ¿Alguien sabe qué fue de él?" } ] },
+    
     { "id": "c1912", "anio": "1912", "lugar": "Quillota · La Cruz", "titulo": "La herencia y los hermanos separados", "familia": "berrios", "bloques": [
       { "t": "p", "x": "Entre 1912 y 1915 aparece la herencia de Vicente, muerto en 1906, y de varios de sus hijos. Los papeles hablan de una propiedad en Maulecito, en La Cruz, Quillota, y nombran a los herederos: Carolina, casada con un Yáñez; Rosa, con un Ponce; Elcira, con un Cataldo; y Alberto, Elena y [[francisco-berrios|Francisco]]." },
       { "t": "p", "x": "Francisco se adjudica los derechos y se los cede a Francisco Vargas, que había comprado la propiedad en 1912. También figuran todos los hijos Rey Segovia." },
       { "t": "p", "x": "Mientras tanto los cinco hermanos Rey Segovia crecen separados. [[jose-vicente|José Vicente]], el menor, deja un daguerrotipo en cobre de hacia 1914." },
       { "t": "medio", "id": "daguerrotipo" } ] },
+    
     { "id": "c1920", "anio": "1920 – 1944", "lugar": "Santiago · Viña del Mar", "titulo": "Cada hermano, un camino", "familia": "rubilar", "bloques": [
       { "t": "p", "x": "[[laura|Laura]] se casa con un Vadillo. [[margarita-rs|María Margarita]] se casa con Luis Ravello y se instala en Santiago, donde tienen a Luis y Adriana. [[teresa|Teresa]] queda en un retrato de 1924, a los 19 años." },
       { "t": "medio", "id": "teresa-1924" },
