@@ -1,0 +1,79 @@
+{
+  "_guia": "Carpetas: img/personas/<id>.jpg (retrato, se detecta solo) · img/familias/<id-familia>/ (fotos de familia) · img/contexto/ (territorio, documentos, mapas). El relato solo cita ids de 'medios'; las rutas viven únicamente en 'medios'. En textos usa [[id|texto]] para enlazar a una persona.",
+  "meta": {
+    "titulo": "Los Rey",
+    "kicker": "Archivo familiar · Chile central",
+    "lema": "Fragmentos de una historia familiar entre el Valle de Aconcagua, Valparaíso y Santiago.",
+    "rango": "1820 — presente",
+    "estado": "Una historia en construcción",
+    "imagenBase": "img/",
+    "portada": "portada",
+    "intro": {
+      "titulo": "Una familia aparece primero como un conjunto de nombres.",
+      "texto": "Antes de existir una historia completa, existen fragmentos: una fecha, un lugar, una fotografía, el nombre de un padre, el recuerdo de una abuela."
+    },
+    "cierre": "Un archivo familiar en construcción · Chile central · 1820—presente"
+  },
+  "familias": {
+    "aconcagua": { "nombre": "Rey de Aconcagua", "color": "#899487", "lugar": "Valle de Aconcagua", "periodo": "c. 1795 – c. 1850", "resumen": "La línea más antigua que podemos seguir. Aún es hipótesis de trabajo." },
+    "gonzalez": { "nombre": "Rey González", "color": "#b18c87", "lugar": "Catemu", "periodo": "c. 1848 – 1968", "resumen": "Manuel Rey y Rosa González, y los hijos que llevan la línea hacia el puerto." },
+    "soto": { "nombre": "Rey Soto", "color": "#8296a0", "lugar": "Por confirmar", "periodo": "por investigar", "resumen": "La rama de la segunda esposa de Manuel, Clara Soto. Casi todo está por descubrir." },
+    "costa": { "nombre": "Rey de la costa", "color": "#b79b68", "lugar": "Valparaíso · Viña del Mar", "periodo": "1890 – presente", "resumen": "La familia se traslada del interior del valle hacia la costa." }
+  },
+  "personas": {
+    "antonio": { "nombre": "Antonio Rey", "familia": "aconcagua", "generacion": 1, "fechas": "c. 1795 — después de 1840", "nacimiento": "c. 1795", "lugar": "Valle de Aconcagua", "rol": "Antepasado", "certeza": "Hipótesis", "historia": "Es uno de los primeros nombres asociados a la línea familiar que hemos podido reconstruir. Los datos son escasos y falta confirmar sus padres y lugar de nacimiento.", "relacionados": ["manuel"], "notas": [{ "t": "Primera referencia hacia 1821, sin documento confirmado.", "fuente": "Por citar (registro parroquial o notarial)" }] },
+    "manuel": { "nombre": "Manuel Rey", "familia": "gonzalez", "generacion": 2, "fechas": "c. 1848 — 1919", "nacimiento": "c. 1848", "lugar": "Catemu", "rol": "Antepasado", "certeza": "En investigación", "historia": "Los registros disponibles lo sitúan en Catemu durante la segunda mitad del siglo XIX. Su vínculo con Rosa González permite seguir la línea hacia generaciones posteriores.", "relacionados": ["antonio", "rosa", "clara", "elena"], "notas": [{ "t": "Aparece en la reconstrucción hacia 1874.", "fuente": "Por citar" }] },
+    "rosa": { "nombre": "Rosa González", "familia": "gonzalez", "generacion": 2, "fechas": "c. 1852 — 1927", "nacimiento": "c. 1852", "lugar": "Aconcagua", "rol": "Antepasada", "certeza": "Probable", "historia": "Rosa aparece asociada a Manuel Rey y es una de las figuras que conectan los registros con la memoria transmitida entre generaciones.", "relacionados": ["manuel", "elena", "joaquin", "teresa"], "notas": [] },
+    "clara": { "nombre": "Clara Soto", "familia": "soto", "generacion": 2, "fechas": "por investigar", "nacimiento": "", "lugar": "", "rol": "Antepasada", "certeza": "Por investigar", "historia": "Segunda esposa de Manuel Rey. Su origen y fechas siguen sin documentarse.", "relacionados": ["manuel", "arturo", "elisa"], "notas": [] },
+    "elena": { "nombre": "Elena Rey", "familia": "costa", "generacion": 3, "fechas": "1890 — 1968", "nacimiento": "1890", "lugar": "Valparaíso", "rol": "Bisabuela", "certeza": "Confirmado", "historia": "Elena representa el desplazamiento de una rama familiar desde el interior del valle hacia la costa. La documentación disponible permite reconstruir parte de su vida.", "relacionados": ["rosa", "manuel", "carlos"], "notas": [{ "t": "Un domicilio hallado en un documento la vincula con una rama antes separada.", "fuente": "Por citar (documento con dirección, c. 1912)" }] },
+    "joaquin": { "nombre": "Joaquín Rey", "familia": "gonzalez", "generacion": 3, "fechas": "por investigar", "nacimiento": "", "lugar": "", "rol": "Hijo de Manuel y Rosa", "certeza": "Por investigar", "historia": "", "relacionados": ["manuel", "rosa"], "notas": [] },
+    "teresa": { "nombre": "Teresa Rey", "familia": "gonzalez", "generacion": 3, "fechas": "por investigar", "nacimiento": "", "lugar": "", "rol": "Hija de Manuel y Rosa", "certeza": "Por investigar", "historia": "", "relacionados": ["manuel", "rosa"], "notas": [] },
+    "arturo": { "nombre": "Arturo Rey", "familia": "soto", "generacion": 3, "fechas": "por investigar", "nacimiento": "", "lugar": "", "rol": "Hijo de Manuel y Clara", "certeza": "Por investigar", "historia": "", "relacionados": ["manuel", "clara"], "notas": [] },
+    "elisa": { "nombre": "Elisa Rey", "familia": "soto", "generacion": 3, "fechas": "por investigar", "nacimiento": "", "lugar": "", "rol": "Hija de Manuel y Clara", "certeza": "Por investigar", "historia": "", "relacionados": ["manuel", "clara"], "notas": [] },
+    "carlos": { "nombre": "Carlos Rey", "familia": "costa", "generacion": 4, "fechas": "1948 — 2011", "nacimiento": "1948", "lugar": "Viña del Mar", "rol": "Generación cercana", "certeza": "Confirmado", "historia": "Una persona cuya historia aún puede reconstruirse a través de fotografías, recuerdos familiares y testimonios de quienes lo conocieron.", "relacionados": ["elena"], "notas": [{ "t": "El parentesco exacto con Elena está por confirmar.", "fuente": "Testimonio familiar pendiente" }] }
+  },
+  "medios": {
+    "portada": { "archivo": "familias/costa/portada.jpg", "tipo": "Fotografía principal", "pie": "Fotografía principal del archivo", "familia": "costa" },
+    "valle": { "archivo": "contexto/catemu/valle.jpg", "tipo": "Territorio", "pie": "Espacio para una imagen del valle o un documento histórico.", "formato": "tall" },
+    "mapa-costa": { "archivo": "contexto/valparaiso/mapa.jpg", "tipo": "Mapa", "pie": "Espacio para un mapa o plano de época." },
+    "manuel-rosa": { "archivo": "familias/gonzalez/manuel-rosa.jpg", "tipo": "Fotografía familiar", "pie": "Manuel Rey y Rosa González.", "familia": "gonzalez", "personas": ["manuel", "rosa"], "credito": "Colección familiar" },
+    "carlos-vina": { "archivo": "familias/costa/carlos-vina.jpg", "tipo": "Fotografía familiar", "pie": "Carlos Rey en Viña del Mar.", "familia": "costa", "personas": ["carlos"] }
+  },
+  "capitulos": [
+    { "id": "c1821", "anio": "1821", "lugar": "Aconcagua", "titulo": "El primer Rey que podemos seguir", "familia": "aconcagua", "bloques": [
+      { "t": "p", "x": "La primera huella que hemos podido reconstruir conduce hasta [[antonio|Antonio Rey]], registrado en el Valle de Aconcagua durante las primeras décadas del siglo XIX." },
+      { "t": "p", "x": "No sabemos dónde nació ni conocemos una fotografía suya. Sabemos que formó una familia y que uno de sus hijos continuaría la línea que llegaría hasta nosotros." },
+      { "t": "nota", "titulo": "Lo que sabemos", "x": "La fecha es aproximada y el vínculo familiar es una hipótesis de trabajo hasta encontrar una fuente que lo confirme." } ] },
+    { "id": "c1874", "anio": "1874", "lugar": "Catemu", "titulo": "El valle, el trabajo y una nueva generación", "familia": "gonzalez", "bloques": [
+      { "t": "p", "x": "Hacia fines del siglo XIX aparece con mayor claridad [[manuel|Manuel Rey]]. Los registros lo relacionan con Catemu, un territorio de actividades agrícolas, caminos interiores y movimiento entre los pueblos del valle." },
+      { "t": "medio", "id": "valle" },
+      { "t": "p", "x": "Los nombres comienzan a repetirse y las relaciones se vuelven más fáciles de seguir. [[rosa|Rosa González]], su esposa, es clave para comprender la siguiente generación." },
+      { "t": "medio", "id": "manuel-rosa" },
+      { "t": "cita", "x": "La historia familiar no siempre se conserva en grandes relatos. A veces sobrevive en los nombres." },
+      { "t": "arbol", "titulo": "Dos hogares, una misma rama", "x": "Un esquema puntual aclara una relación difícil de explicar solo con texto.", "raiz": "manuel", "ramas": [
+        { "etiqueta": "Primera esposa · Rosa González", "familia": "gonzalez", "hijos": ["elena", "joaquin", "teresa"] },
+        { "etiqueta": "Segunda esposa · Clara Soto", "familia": "soto", "hijos": ["arturo", "elisa"] } ] } ] },
+    { "id": "c1912", "anio": "1912", "lugar": "Valparaíso", "titulo": "Del valle hacia el puerto", "familia": "costa", "bloques": [
+      { "t": "p", "x": "Una generación después, [[elena|Elena Rey]] aparece vinculada a Valparaíso. La familia ya no está en un solo lugar: las historias se cruzan entre Catemu, el puerto y Santiago." },
+      { "t": "contexto", "items": [
+        { "k": "Contexto", "t": "Chile a comienzos del siglo XX", "x": "Mientras Elena crecía, el ferrocarril, los puertos y las nuevas formas de comunicación transformaban la relación entre ciudades y pueblos del centro de Chile." },
+        { "k": "Una pista", "t": "Un domicilio puede cambiar una historia", "x": "Una dirección encontrada en un documento relaciona a Elena con una rama que aparecía separada." } ] },
+      { "t": "medio", "id": "mapa-costa" } ] },
+    { "id": "c1948", "anio": "1948", "lugar": "Viña del Mar", "titulo": "La generación que todavía podemos preguntar", "familia": "costa", "bloques": [
+      { "t": "p", "x": "[[carlos|Carlos Rey]] pertenece a una generación más cercana. Existen fotografías, recuerdos y personas que aún pueden aportar información." },
+      { "t": "medio", "id": "carlos-vina" },
+      { "t": "p", "x": "Esta parte permite unir los documentos antiguos con la memoria oral: nombres en papeles y personas que viven en el recuerdo de sus hijos y nietos." },
+      { "t": "nota", "titulo": "Pregunta abierta", "x": "¿Alguien conserva fotografías, cartas o recuerdos de los años de Carlos en Viña del Mar?" } ] },
+    { "id": "c2026", "anio": "2026", "lugar": "Presente", "titulo": "Una historia que todavía se está escribiendo", "familia": "costa", "bloques": [
+      { "t": "p", "x": "Hoy conocemos solo una parte. La intención de este archivo no es completar los vacíos inventando respuestas, sino reunir las piezas dispersas y dejar espacio para las que aún puedan aparecer." },
+      { "t": "p", "x": "Cada fotografía, cada fecha y cada recuerdo puede cambiar la forma en que entendemos esta historia." } ] }
+  ],
+  "cronologia": [
+    { "anio": "1821", "lugar": "Aconcagua", "texto": "Primera referencia a Antonio Rey.", "familia": "aconcagua", "generacion": 1, "persona": "antonio" },
+    { "anio": "1874", "lugar": "Catemu", "texto": "Manuel Rey aparece en la reconstrucción.", "familia": "gonzalez", "generacion": 2, "persona": "manuel" },
+    { "anio": "1890", "lugar": "Valparaíso", "texto": "Nace Elena Rey.", "familia": "costa", "generacion": 3, "persona": "elena" },
+    { "anio": "1912", "lugar": "Valparaíso", "texto": "Elena conecta una nueva rama.", "familia": "costa", "generacion": 3, "persona": "elena" },
+    { "anio": "1948", "lugar": "Viña del Mar", "texto": "Nace Carlos Rey.", "familia": "costa", "generacion": 4, "persona": "carlos" },
+    { "anio": "2026", "lugar": "Presente", "texto": "El archivo continúa abierto.", "familia": "costa", "generacion": 5 }
+  ]
+}
