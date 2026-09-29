@@ -9,58 +9,39 @@
     "imagenBase": "img/",
     "portada": "portada",
     "intro": {
-      "titulo": "Todo empezó con un comerciante de Catemu y una ortografía muy relajada.",
-      "texto": "Durante casi cien años los Rey aparecen en los papeles como Rey, Reyes, Reies, según el humor del escribiente. Este archivo junta esas huellas, algunas fotos y lo que se cuenta en las sobremesas para armar el camino que va del Valle de Aconcagua hasta un almacén de Curicó."
+      "titulo": "Todo empezó en el Valle de Aconcagua.",
+      "texto": "Por años los Rey aparecen en los papeles como Rey, Reyes, Reies, según el humor del escribiente. Este archivo junta esas huellas, algunas fotos y lo que se cuenta en las sobremesas para armar el camino que va del Valle de Aconcagua hasta la generación familiar de Curicó."
     },
     "cierre": "Reconstrucción original de Francisco Rey Villar, de 2013 a la fecha · Archivo en construcción"
   },
   "familias": {
     "monzon": { 
-        "nombre": "Rey Monzzon", 
-        "color": "#94828f", 
-        "lugar": "Valle del Aconcagua", 
-        "periodo": "c. 1715 – 1780", 
-        "resumen": "El patriarca colonial: Toribio Rey y los primeros criollos dispersos bajo el sistema de la Capitanía General de Chile." 
+        "nombre": "Rey Monzzon", "color": "#94828f", "lugar": "Valle del Aconcagua", "periodo": "c. 1715 – 1780", "resumen": "Toribio Rey y los primeros criollos dispersos bajo el sistema de la Capitanía General de Chile." 
     },
     "arias": { 
-        "nombre": "Rey Arias", 
-        "color": "#c2a68f", 
-        "lugar": "Villa de San Felipe el Real", 
-        "periodo": "c. 1740 – 1810", 
-        "resumen": "El arraigo urbano: Francisco y el nacimiento de la villa bajo el amparo de un linaje de funcionarios y milicias coloniales." 
+        "nombre": "Rey Arias", "color": "#c2a68f", "lugar": "Villa de San Felipe el Real", "periodo": "c. 1740 – 1810", "resumen": "El arraigo urbano: Francisco y el nacimiento de la villa bajo el amparo de un linaje de funcionarios y milicias coloniales." 
     },
     "soto": { 
-        "nombre": "Rey Soto", 
-        "color": "#a89b82", 
-        "lugar": "San Felipe · Catemu", 
-        "periodo": "c. 1770 – 1840", 
-        "resumen": "La transición a la República: León, Mónica y las rutas de arriería que conectaron el interior con los cerros del puerto." 
+        "nombre": "Rey Soto", "color": "#a89b82", "lugar": "Punta de los Reyes · Viña", "periodo": "c. 1770 – 1840", "resumen": "La transición a la República: León, Mónica y las rutas de arriería que conectaron el interior con los cerros del puerto." 
     },
      "jara": { 
-        "nombre": "Rey Jara", 
-        "color": "#a89b82", 
-        "lugar": "Punta de los Reyes · Catemu", 
-        "periodo": "c. 1790 – 1850", 
-        "resumen": "El hogar de ño Bruno y Dolores Jara, testigos de la transformación de los cerros del puerto y las quebradas del interior." 
-    },
-    "jara": { 
-      "nombre": "Rey Jara", 
-      "color": "#899487", 
-      "lugar": "Catemu", 
-      "periodo": "c. 1846 – 1906", 
-      "resumen": "El origen conocido: Bruno, Dolores y su hijo Vicente, comerciante y agricultor." 
+        "nombre": "Rey Jara", "color": "#a89b82", "lugar": "Catemu · Viña", "periodo": "c. 1790 – 1850", "resumen": "El hogar de Bruno Rey y Dolores Jara, testigos de la transformación de los cerros del puerto y las quebradas del interior." 
     },
     "veas": { 
-      "nombre": "Rey Veas", 
-      "color": "#b18c87", 
-      "lugar": "Catemu · Valparaíso", 
-      "periodo": "1874 – 1914", 
-      "resumen": "El primer hogar de Vicente, cortado en 1881 por la muerte de Carmen." 
+      "nombre": "Rey Veas", "color": "#b18c87", "lugar": "Catemu · Valparaíso", "periodo": "1874 – 1914", "resumen": "El primer hogar de Vicente, cortado en 1881 por la muerte de Carmen." 
     },
-    "berrios": { "nombre": "Rey Berrios", "color": "#8296a0", "lugar": "Catemu · Quillota", "periodo": "1881 – 1915", "resumen": "El segundo hogar de Vicente, donde crecieron también los hijos de Carmen." },
-    "segovia": { "nombre": "Rey Segovia", "color": "#b79b68", "lugar": "San Esteban · Catemu", "periodo": "1903 – 1934", "resumen": "Isaías y Margarita, y cinco hijos que terminaron criándose por separado." },
-    "acosta": { "nombre": "Rey Acosta", "color": "#c1794f", "lugar": "Cachapoal · Curicó", "periodo": "c. 1931 – presente", "resumen": "José Vicente y Rosa, un fundo, una parcela y finalmente un almacén en Curicó." },
-    "rubilar": { "nombre": "Rey Rubilar", "color": "#9c8aa5", "lugar": "Viña del Mar", "periodo": "1944 – presente", "resumen": "El hogar de Isaías Rey Segovia y Mercedes Rubilar frente al mar." }
+    "berrios": { 
+      "nombre": "Rey Berrios", "color": "#8296a0", "lugar": "Catemu · Quillota", "periodo": "1881 – 1915", "resumen": "El segundo hogar de Vicente, donde crecieron también los hijos de Carmen."
+    },
+    "segovia": { 
+      "nombre": "Rey Segovia", "color": "#b79b68", "lugar": "San Esteban · Catemu", "periodo": "1903 – 1934", "resumen": "Isaías y Margarita, y cinco hijos que terminaron criándose por separado."
+    },
+    "acosta": { 
+      "nombre": "Rey Acosta", "color": "#c1794f", "lugar": "Cachapoal · Curicó", "periodo": "c. 1931 – presente", "resumen": "José Vicente y Rosa Acosta, un salto en Rancagua que termina con un almacén en Curicó."
+    },
+    "rubilar": { 
+      "nombre": "Rey Rubilar", "color": "#9c8aa5", "lugar": "Viña del Mar", "periodo": "1944 – presente", "resumen": "El hogar de Isaías Rey Segovia y Mercedes Rubilar frente al mar."
+    }
   },
   "personas": {
     "bruno": { "nombre": "Bruno Rey", "familia": "jara", "generacion": 1, "fechas": "por investigar", "nacimiento": "", "lugar": "Catemu", "rol": "Padre de Vicente", "certeza": "Por investigar", "historia": "Padre de Vicente Rey Jara y de al menos tres hijas. En algunos papeles aparece como Bruno Reyes.", "relacionados": ["dolores", "vicente"], "notas": [] },
@@ -72,7 +53,7 @@
     "eleuteria": { "nombre": "Eleuteria Berrios Miranda", "familia": "berrios", "generacion": 2, "fechas": "por investigar", "nacimiento": "", "lugar": "Catemu", "rol": "Segunda esposa de Vicente", "certeza": "Confirmado", "historia": "Hija de Isidoro Berríos Calderón. Se casó con Vicente en marzo de 1881, semanas después de la muerte de Carmen, y crió a los hijos de ella junto a los suyos. Varios de esos hijos murieron al poco de nacer; sobrevivieron, entre otros, Francisco, Rosa, Alberto, Elena y Eloísa.", "relacionados": ["vicente", "carmen", "francisco-berrios"], "notas": [{ "t": "Su cuñada Adelaida Fajardo de Berrios conocía a Margarita Segovia y guardó la postal de 1895.", "fuente": "Colección familiar (Fig. 4)" }] },
     "francisco-berrios": { "nombre": "Francisco Rey Berrios", "familia": "berrios", "generacion": 3, "fechas": "n. 1883", "nacimiento": "1883", "lugar": "Catemu", "rol": "Hijo de Vicente y Eleuteria", "certeza": "Confirmado", "historia": "Entre 1912 y 1915 logra que se le adjudiquen los derechos de la herencia sobre la propiedad de Maulecito (La Cruz, Quillota) y los cede a Francisco Vargas, quien ya la había comprado en 1912. Un Francisco Rey, quizá él, fue padrino de bautizo de su sobrino José Vicente en 1909.", "relacionados": ["vicente", "eleuteria"], "notas": [{ "t": "Adjudicación y cesión de derechos.", "fuente": "Registro de bienes raíces, 1912–1915" }] },
     "santiago": { "nombre": "Santiago Segovia Neida", "familia": "segovia", "generacion": 2, "fechas": "c. 1850 – c. 1915", "nacimiento": "", "lugar": "San Esteban", "rol": "Padre de Margarita Segovia", "certeza": "En investigación", 
-      "historia": "Hijo de Fermín Segovia y Lucía Neida. Aunque la tradición familiar evoca un pasado como grandes terratenientes de una vasta hacienda en Coquimbito que se extendía hacia la cordillera, los registros de propiedad apuntan a una realidad más precisa: el control de derechos agrícolas y tierras medianas en los sectores de «El Porvenir» y «El Sauce». Esta última zona era un nudo estratégico clave para la arriería y el transporte internacional. Hacia 1903, Santiago habitaba como vecino establecido en la calle Foncea de San Esteban, habiendo enviudado poco antes de Carmen Castillo Santibáñez.", 
+      "historia": "Hijo de Fermín Segovia y Lucía Neida. Aunque la tradición familiar evoca un pasado como grandes terratenientes de una vasta hacienda en Coquimbito (Los Andes) que se extendía hacia la cordillera, los registros de propiedad apuntan a una realidad más precisa: el control de derechos agrícolas y tierras medianas en los sectores de «El Porvenir» y «El Sauce». Esta última zona era un nudo estratégico clave para la arriería y el transporte internacional. Hacia 1903, Santiago habitaba como vecino establecido en la calle Foncea de San Esteban, habiendo enviudado poco antes de Carmen Castillo Santibáñez.", 
       "relacionados": ["margarita-segovia", "fermin-segovia"], 
       "notas": [
         { "t": "Mito vs. Registro", "x": "La tradición oral menciona una inmensa hacienda en Coquimbito, pero la fisonomía de la época muestra un valle ya fragmentado en hijuelas comerciales." },
@@ -203,10 +184,10 @@
     { "id": "c1909", "anio": "1909", "lugar": "Catemu", "titulo": "El año en que la casa se rompe", "familia": "segovia", "bloques": [
       { "t": "p", "x": "El 7 de junio de 1909 nace [[jose-vicente|José Vicente Rey Segovia]], el quinto hijo. Al parecer por complicaciones del parto, Margarita muere ese año. Tenía unos 34 años." },
       { "t": "cita", "x": "De ayer nacido, hijo legítimo de Isaías Rey y Margarita Segovia, feligreses de esta parroquia." },
-      { "t": "p", "x": "Los hermanos mayores quedan al cuidado de la familia de Carlos Cruz Cruz, juez del crimen del pueblo. El pequeño se queda con la niñera de la familia. De Isaías padre no volvemos a saber nada." },
+      { "t": "p", "x": "Los hermanos mayores quedan al cuidado de la familia de Carlos Cruz, juez del crimen del pueblo. El pequeño se cría con la niñera de la familia. De Isaías Rey no volvemos a saber nada." },
       { "t": "medio", "id": "bautizos" },
       { "t": "medio", "id": "capilla" },
-      { "t": "nota", "titulo": "Pregunta abierta", "x": "Una hipótesis dice que Isaías murió antes de 1914, según un índice de defunciones del Registro Civil que aún no se ha revisado completo. ¿Alguien sabe qué fue de él?" } ] },
+      { "t": "nota", "titulo": "Pregunta abierta", "x": "Una hipótesis dice que Isaías murió antes de 1914 en el Puerto de Valparaíso, según un índice de defunciones del Registro Civil que aún no se ha revisado completo. ¿Alguien sabe qué fue de él?" } ] },
     
     { "id": "c1912", "anio": "1912", "lugar": "Quillota · La Cruz", "titulo": "La herencia y los hermanos separados", "familia": "berrios", "bloques": [
       { "t": "p", "x": "Entre 1912 y 1915 aparece la herencia de Vicente, muerto en 1906, y de varios de sus hijos. Los papeles hablan de una propiedad en Maulecito, en La Cruz, Quillota, y nombran a los herederos: Carolina, casada con un Yáñez; Rosa, con un Ponce; Elcira, con un Cataldo; y Alberto, Elena y [[francisco-berrios|Francisco]]." },
@@ -241,7 +222,7 @@
       { "t": "medio", "id": "curico-1950" },
       { "t": "contexto", "items": [
         { "k": "Contexto", "t": "Carbón, leña y abarrotes", "x": "En los años cuarenta el carbón y la leña calentaban y cocinaban en casi todas las casas. Un almacén de barrio que vendía comida y combustible abastecía a toda la cuadra." },
-        { "k": "Una pista", "t": "De arrendar a ser dueños", "x": "En pocos años la familia pasó de arrendar una parcela a ser dueña de un negocio, un terreno y una casa. Es probablemente el paso más grande de toda la historia." } ] },
+        { "k": "Una pista", "t": "De arrendar a ser dueños", "x": "En pocos años la familia pasó de arrendar un sitio a ser dueña de un negocio y una casa. Un gran paso en esta historia familiar." } ] },
       { "t": "medio", "id": "curico-1982" } ] },
     
     { "id": "c2026", "anio": "2026", "lugar": "Presente", "titulo": "Una historia que todavía se está escribiendo", "familia": "acosta", "bloques": [
