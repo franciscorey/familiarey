@@ -71,15 +71,7 @@
     "josev": { "nombre": "José Vicente Rey Veas", "familia": "veas", "generacion": 3, "fechas": "n. 1876", "nacimiento": "1876", "lugar": "El Almendral", "rol": "Empleado", "certeza": "Probable", "historia": "Hermano de Isaías. Empleado, casado con la costurera María Mercedes Rodríguez. Tuvieron a Ricardo (1901), Lorenzo (1903) y Berta Leonidas; el pequeño Fernando Bruno murió de viruela en 1905. En 1912–1915 aparece su sucesión, señal de que ya había fallecido.", "relacionados": ["isaias", "carmen"], "notas": [] },
     "eleuteria": { "nombre": "Eleuteria Berrios Miranda", "familia": "berrios", "generacion": 2, "fechas": "por investigar", "nacimiento": "", "lugar": "Catemu", "rol": "Segunda esposa de Vicente", "certeza": "Confirmado", "historia": "Hija de Isidoro Berríos Calderón. Se casó con Vicente en marzo de 1881, semanas después de la muerte de Carmen, y crió a los hijos de ella junto a los suyos. Varios de esos hijos murieron al poco de nacer; sobrevivieron, entre otros, Francisco, Rosa, Alberto, Elena y Eloísa.", "relacionados": ["vicente", "carmen", "francisco-berrios"], "notas": [{ "t": "Su cuñada Adelaida Fajardo de Berrios conocía a Margarita Segovia y guardó la postal de 1895.", "fuente": "Colección familiar (Fig. 4)" }] },
     "francisco-berrios": { "nombre": "Francisco Rey Berrios", "familia": "berrios", "generacion": 3, "fechas": "n. 1883", "nacimiento": "1883", "lugar": "Catemu", "rol": "Hijo de Vicente y Eleuteria", "certeza": "Confirmado", "historia": "Entre 1912 y 1915 logra que se le adjudiquen los derechos de la herencia sobre la propiedad de Maulecito (La Cruz, Quillota) y los cede a Francisco Vargas, quien ya la había comprado en 1912. Un Francisco Rey, quizá él, fue padrino de bautizo de su sobrino José Vicente en 1909.", "relacionados": ["vicente", "eleuteria"], "notas": [{ "t": "Adjudicación y cesión de derechos.", "fuente": "Registro de bienes raíces, 1912–1915" }] },
-    "santiago": { 
-      "nombre": "Santiago Segovia Neida", 
-      "familia": "segovia", 
-      "generacion": 2, 
-      "fechas": "c. 1850 – c. 1915", 
-      "nacimiento": "", 
-      "lugar": "San Esteban", 
-      "rol": "Padre de Margarita Segovia", 
-      "certeza": "En investigación", 
+    "santiago": { "nombre": "Santiago Segovia Neida", "familia": "segovia", "generacion": 2, "fechas": "c. 1850 – c. 1915", "nacimiento": "", "lugar": "San Esteban", "rol": "Padre de Margarita Segovia", "certeza": "En investigación", 
       "historia": "Hijo de Fermín Segovia y Lucía Neida. Aunque la tradición familiar evoca un pasado como grandes terratenientes de una vasta hacienda en Coquimbito que se extendía hacia la cordillera, los registros de propiedad apuntan a una realidad más precisa: el control de derechos agrícolas y tierras medianas en los sectores de «El Porvenir» y «El Sauce». Esta última zona era un nudo estratégico clave para la arriería y el transporte internacional. Hacia 1903, Santiago habitaba como vecino establecido en la calle Foncea de San Esteban, habiendo enviudado poco antes de Carmen Castillo Santibáñez.", 
       "relacionados": ["margarita-segovia", "fermin-segovia"], 
       "notas": [
@@ -154,9 +146,8 @@
       { "t": "contexto", "items": [
         { "k": "Crónica", "t": "El diario de Maria Graham", "x": "En su «Diario de mi residencia en Chile (1822)», la viajera inglesa dejó por escrito que las quebradas que colindaban con las Siete Hermanas albergaban frondosos boscajes de arrayanes, peumos y majestuosas palmas. Sin embargo, también advirtió sobre la presencia de hombres armados a caballo que bajaban del interior a refugiarse en la densidad de los cerros." },
         { "k": "Una pista", "t": "El valor del «ño»", "x": "En los sectores rurales del siglo XIX, el tratamiento de «ño» (de Señor) era un reconocimiento de profundo respeto comunitario reservado para los hombres mayores que resguardaban la historia oral del territorio. Vicuña Mackenna recurrió a Bruno precisamente por ser el único capaz de reconstruir el Valparaíso que Maria Graham vio en 1822." } ] },
-      { "t": "nota", "titulo": "Un bucle en el territorio", "x": "La sutil mención del crimen de Basilio y los recuerdos de Bruno en estos cerros adquieren sentido pleno cuando la línea de tiempo avanza: en 1887, su sobrino nieto Vicente Rey Jara regresará a esta misma franja costera para comprar los terrenos familiares en calle Álvarez, a los pies de las mismas Siete Hermanas." } ] }
+      { "t": "nota", "titulo": "Un bucle en el territorio", "x": "La sutil mención del crimen de Basilio y los recuerdos de Bruno en estos cerros adquieren sentido pleno cuando la línea de tiempo avanza: en 1887, su sobrino nieto Vicente Rey Jara regresará a esta misma franja costera para comprar los terrenos familiares en calle Álvarez, a los pies de las mismas Siete Hermanas." } ] },
   
-
     { "id": "c1846", "anio": "c. 1846", "lugar": "Catemu", "titulo": "Un apellido con muchas maneras de escribirse", "familia": "jara", "bloques": [
       { "t": "p", "x": "Entre 1843 y 1849 nace [[vicente|Vicente Rey Jara]], hijo de [[bruno|Bruno Rey]] y [[dolores|Dolores Jara]]. De ellos sabemos poco más que los nombres. De Vicente, en cambio, sabemos que llegó a ser comerciante en San José de Catemu, con un pie en el negocio y otro en la tierra." },
       { "t": "p", "x": "Aquí conviene una advertencia: en los papeles no somos siempre Rey. Su hermana Margarita, costurera, firmaba «Reyes»; su primer hijo fue bautizado «Reyes Beas». Los curas escribían lo que oían, y a nosotros nos toca leer entre líneas." },
