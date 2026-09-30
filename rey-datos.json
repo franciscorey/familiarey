@@ -45,16 +45,19 @@
   },
   "personas": {
     "francisco-rm": { "nombre": "Francisco Rey Monzzon", "familia": "monzzon", "generacion": 1, "fechas": "por investigar", "nacimiento": "c. 1740", "lugar": "", "rol": "Padre de León", "certeza": "Por confirmar", 
-      "historia": ".", "relacionados": ["monica", "leon"], "notas": [] },
+      "historia": "Francisco Xavier Rey Monzzon nació como hijo de Toribio Rey y Ignacia Monzzon. Se casó con Juana Arias Albarado el 1 de marzo de 1772, en Matriz del Salvador, Valparaíso, Valparaíso, Chile. Fueron padres de por lo menos 6 hijos y 3 hijas.", "relacionados": ["monica", "leon"], "notas": [] },
     
     "leon": { "nombre": "León Rey", "familia": "arias", "generacion": 2, "fechas": "por investigar", "nacimiento": "c. 1770", "lugar": "", "rol": "Padre de Bruno", "certeza": "Por confirmar", 
-      "historia": ".", "relacionados": ["monica", "bruno"], "notas": [] },
+      "historia": "León Rey Arias nació en Valparaíso, Chile como hijo de Francisco Xavier Rey Monzzon y Juana Arias Albarado. Se casó con Monica Soto en Valparaíso, Chile. Fueron padres de por lo menos 7 hijos y 2 hijas.", "relacionados": ["monica", "bruno"], "notas": [] },
     
-    "bruno": { "nombre": "Bruno Rey", "familia": "soto", "generacion": 3, "fechas": "por investigar", "nacimiento": "c. 1800", "lugar": "Catemu", "rol": "Padre de Vicente", "certeza": "Por confirmar", 
+    "basilio": { "nombre": "Basilio Rey", "familia": "soto", "generacion": 3, "fechas": "c. 1789 - 1851", "nacimiento": "c. 1789", "lugar": "Viña del Mar", "rol": "Hermano de Bruno", "certeza": "Por confirmar", 
+      "historia": "Basilio Reyes fue un humilde campesino e inquilino del siglo XIX que vivió en la Quebrada de los Olivos, sector rural que hoy limita entre El Salto y Quilpué dentro de la antigua Estancia de Viña del Mar. Sin ser dueño de las tierras, habitaba allí junto a su respetado hermano Bruno a cambio de trabajar como el portero custodio de las trancas que controlaban el paso de carretas y ganado en el desfiladero. Su existencia sencilla y servicial quedó inmortalizada en la historia local gracias al historiador Benjamín Vicuña Mackenna, quien lo rescató en sus crónicas como el arquetipo del habitante original de las quebradas de la región", "relacionados": ["dolores", "vicente"], "notas": [] },
+    
+    "bruno": { "nombre": "Bruno Rey", "familia": "soto", "generacion": 3, "fechas": "c. 1800 - 1884", "nacimiento": "c. 1800", "lugar": "Viña del Mar", "rol": "Padre de Vicente", "certeza": "Por confirmar", 
       "historia": "Padre de Vicente Rey Jara y de al menos tres hijas. En algunos papeles aparece como Bruno Reyes.", "relacionados": ["dolores", "vicente"], "notas": [] },
     
-    "dolores": { "nombre": "Dolores Jara", "familia": "jara", "generacion": 3, "fechas": "por investigar", "nacimiento": "", "lugar": "Catemu", "rol": "Madre de Vicente", "certeza": "Por confirmar", 
-      "historia": "Madre de Vicente. De ella conservamos el apellido, que pasó a nombrar toda una rama.", "relacionados": ["bruno", "vicente"], "notas": [] },
+    "dolores": { "nombre": "Dolores Jara", "familia": "jara", "generacion": 3, "fechas": "c. 1820 - 1848", "nacimiento": "c. 1820", "lugar": "Casablanca", "rol": "Madre de Vicente", "certeza": "Por confirmar", 
+      "historia": "Madre de Vicente. De ella conservamos el apellido, que pasó a nombrar toda una rama. Fallece en agosto de 1848 a los 28 años.", "relacionados": ["bruno", "vicente"], "notas": [] },
     
     "vicente-rj": { "nombre": "Vicente Rey Jara", "familia": "jara", "generacion": 4, "fechas": "c. 1846 — 1906", "nacimiento": "entre 1843 y 1849", "lugar": "Catemu", "rol": "Comerciante y agricultor", "certeza": "Confirmado", 
       "historia": "Comerciante y agricultor de San José de Catemu. Se casó dos veces, formó dos hogares y declaró domicilio en San José, Las Máquinas, Varillas y Reinoso. En 1887 compró un terreno en Viña del Mar. Murió en 1906.", "relacionados": ["bruno", "dolores", "carmen", "eleuteria", "isaias"], "notas": [{ "t": "Su firma, hacia 1890.", "fuente": "Documento familiar (Fig. 3)" }, { "t": "Su herencia se tramita entre 1912 y 1915.", "fuente": "Registro de bienes raíces" }] },
