@@ -51,10 +51,10 @@
       "historia": "León Rey Arias nació en Valparaíso, Chile como hijo de Francisco Xavier Rey Monzzon y Juana Arias Albarado. Se casó con Monica Soto en Valparaíso, Chile. Fueron padres de por lo menos 7 hijos y 2 hijas.", "relacionados": ["monica", "bruno"], "notas": [] },
     
     "basilio": { "nombre": "Basilio Rey", "familia": "soto", "generacion": 3, "fechas": "c. 1789 - 1851", "nacimiento": "c. 1789", "lugar": "Viña del Mar", "rol": "Hermano de Bruno", "certeza": "Por confirmar", 
-      "historia": "Basilio Reyes fue un humilde campesino e inquilino del siglo XIX que vivió en la Quebrada de los Olivos, sector rural que hoy limita entre El Salto y Quilpué dentro de la antigua Estancia de Viña del Mar. Sin ser dueño de las tierras, habitaba allí junto a su respetado hermano Bruno a cambio de trabajar como el portero custodio de las trancas que controlaban el paso de carretas y ganado en el desfiladero. Su existencia sencilla y servicial quedó inmortalizada en la historia local gracias al historiador Benjamín Vicuña Mackenna, quien lo rescató en sus crónicas como el arquetipo del habitante original de las quebradas de la región", "relacionados": ["dolores", "vicente"], "notas": [] },
+      "historia": "Hijo de León Rey, Basilio Reyes y su hermano Bruno fueron humildes cuidadores y porteros de las trancas en el paso de la Punta de los Reyes y los cerros de las Siete Hermanas durante el siglo XIX. Basilio quedó especialmente inmortalizado por protagonizar un crimen donde supuestamente mata a Joaquin Carrera.", "relacionados": ["dolores", "vicente"], "notas": [] },
     
     "bruno": { "nombre": "Bruno Rey", "familia": "soto", "generacion": 3, "fechas": "c. 1800 - 1884", "nacimiento": "c. 1800", "lugar": "Viña del Mar", "rol": "Padre de Vicente", "certeza": "Por confirmar", 
-      "historia": "Padre de Vicente Rey Jara y de al menos tres hijas. En algunos papeles aparece como Bruno Reyes.", "relacionados": ["dolores", "vicente"], "notas": [] },
+      "historia": "Nacido alrededor de 1800 e hijo de León Rey. Fue un humilde, honrado y obsequioso campesino que habitaba en el sector del desfiladero. Se desempeñó como el portero custodio de las trancas que controlaban el paso de carretas y viajeros, vivió en la Punta de los Reyes. Es el padre de Vicente Rey Jara y de al menos tres hijas.", "relacionados": ["dolores", "vicente"], "notas": [] },
     
     "dolores": { "nombre": "Dolores Jara", "familia": "jara", "generacion": 3, "fechas": "c. 1820 - 1848", "nacimiento": "c. 1820", "lugar": "Casablanca", "rol": "Madre de Vicente", "certeza": "Por confirmar", 
       "historia": "Madre de Vicente. De ella conservamos el apellido, que pasó a nombrar toda una rama. Fallece en agosto de 1848 a los 28 años.", "relacionados": ["bruno", "vicente"], "notas": [] },
@@ -150,24 +150,41 @@
         { "k": "Contexto", "t": "El Chile de las estancias", "x": "En la primera mitad del 1700, el Valle del Aconcagua no tenía villas. La población vivía dispersa en inmensas propiedades rurales. El control de la Corona española era difuso y la vida se organizaba en torno a la fe y la subsistencia." },
         { "k": "Una pista", "t": "Rastrear sin registros", "x": "Llegar a Toribio es un hito: su existencia no se conoce por un acta directa, sino por la indexación masiva de microfilms eclesiásticos que lo mencionan como padre en generaciones posteriores." } ] } ] },
     
-    { "id": "c1740", "anio": "c. 1740", "lugar": "Villa de San Felipe el Real", "titulo": "Una villa nueva y un apellido que busca su lugar", "familia": "monzon", "bloques": [
+  {
+    "id": "c1740",
+    "anio": "c. 1740",
+    "lugar": "Corredor del Aconcagua a la Costa",
+    "titulo": "Una familia que busca su lugar",
+    "familia": "monzon",
+    "bloques": [
       { "t": "p", "x": "Alrededor de 1740 nace [[francisco-rey|Francisco Rey Monzón]], hijo de Toribio. Su nacimiento coincide de forma exacta con un cambio geopolítico clave: la fundación oficial de San Felipe el Real por el gobernador Manso de Velasco. Para poblar la villa, la Corona atrajo a comerciantes y milicias locales, entorno donde la rama materna de Francisco, los Monzón, poseía cierta influencia." },
       { "t": "p", "x": "Francisco firma y se registra uniendo ambos apellidos. En una sociedad colonial fuertemente jerarquizada, el uso del apellido compuesto Rey Monzón funcionaba como una herramienta de validación local y una estrategia para asegurar derechos de tierras y herencias en el nuevo plano urbano." },
       { "t": "contexto", "items": [
-        { "k": "Contexto", "t": "Las poblaciones borbónicas", "x": "La fundación de San Felipe en 1740 buscaba concentrar a los habitantes rurales para controlarlos mejor y cobrar impuestos. La nueva villa se convirtió rápidamente en un punto estratégico porque controlaba el tráfico hacia el camino cordillerano de Mendoza." } ] } ] },
-  
-    { "id": "c1770", "anio": "c. 1770", "lugar": "San Felipe · Catemu", "titulo": "La era de los arrieros y el camino hacia el mar", "familia": "arias", "bloques": [
+        { "k": "Contexto", "t": "Las poblaciones borbónicas", "x": "La fundación de San Felipe en 1740 buscaba concentrar a los habitantes rurales para controlarlos mejor y cobrar impuestos. La nueva villa se convirtió rápidamente en un punto estratégico porque controlaba el tráfico hacia el camino cordillerano de Mendoza." }
+      ] }
+    ]
+  },
+
+  {
+    "id": "c1770",
+    "anio": "c. 1770",
+    "lugar": "Corredor del Aconcagua a la Costa",
+    "titulo": "La era de los arrieros y las rutas hacia el interior costeño",
+    "familia": "arias",
+    "bloques": [
       { "t": "p", "x": "En las últimas décadas de la Colonia nace [[leon-rey|León Rey Arias]], hijo de Francisco. Tiempo después forma su hogar con [[monica-soto|Mónica Soto]]. A ellos les toca vivir los años de la Independencia y la transición hacia la nueva República de Chile, manteniendo el arraigo familiar en las tierras del interior." },
-      { "t": "p", "x": "Es en esta época donde se consolida el oficio familiar que cruzaría los cerros: la arriería. Las mulas cargadas con el trigo, los cueros y el cobre del Valle del Aconcagua bajaban por los senderos cordilleranos directo hacia las bodegas del emergente puerto de Valparaíso." },
+      { "t": "p", "x": "Es en esta época donde se consolida el oficio familiar que cruzaría los valles: la arriería. Las mulas cargadas con productos agrícolas del Aconcagua comenzaron a abrir rutas de tránsito hacia las grandes haciendas del cordón costero, descendiendo por desfiladeros estratégicos como los límites de las Siete Hermanas y El Salto." },
       { "t": "contexto", "items": [
-        { "k": "Contexto", "t": "El lazo con el Puerto", "x": "A fines del siglo XVIII, Valparaíso empieza a crecer gracias al comercio con el Virreinato del Perú. El Valle del Aconcagua se convierte en su despensa natural, obligando a familias del interior a pasar meses viajando a lomo de mula hacia la costa." } ] } ] },
-    
+        { "k": "Contexto", "t": "El lazo con los valles interiores", "x": "A fines del siglo XVIII y principios del XIX, el Valle del Aconcagua abastecía los nodos comerciales costeros. Esto obligó a los arrieros a establecer paradas rústicas y puestos de control de trancas en los faldeos de los cerros interiores para el descanso de sus animales antes de conectar con el litoral." }
+      ] }
+    ]
+  },
     { "id": "c1800", "anio": "c. 1800", "lugar": "Punta de los Reyes · Siete Hermanas", "titulo": "El asiento junto al mar y los dueños de las puntas rocosas", "familia": "reysoto", "bloques": [
-      { "t": "p", "x": "Alrededor de 1800 nace [[bruno-rey|Bruno Rey]], el «ño Bruno», junto a su hermano [[basilio-rey|Basilio Reyes]], hijos de León y Mónica. Los relatos recopilados por Benjamín Vicuña Mackenna revelan que las raíces de esta antigua familia estaban amarradas a la misma fisonomía del puerto: la Punta de los Reyes (o Cruz de Reyes) en el plano de Valparaíso recibió históricamente ese nombre por haber sido el lugar primitivo de asentamiento, bodegas y pesca de estas ramas familiares coloniales." },
-      { "t": "p", "x": "Sin embargo, los faldeos del puerto se hicieron estrechos. En su juventud, Bruno y Basilio se desplazan hacia los límites orientales de la gigantesca Hacienda de las Siete Hermanas. En esas laderas agrestes, sus vidas tomaron rumbos opuestos: mientras Bruno se convirtió con los años en el respetado y honrado «obsequioso portero» de las quebradas de la zona, las crónicas de Vicuña Mackenna guardan una línea más sombría sobre Basilio, mencionándolo brevemente al pasar como un «matador» envuelto en un trágico crimen de honor a puñal que costó la vida a Joaquín Carrera." },
+      { "t": "p", "x": "Alrededor de 1800 nace [[bruno-rey|Bruno Rey]], el «ño Bruno», junto a su hermano [[basilio-rey|Basilio Rey]], hijos de León y Mónica. Los relatos recopilados por Benjamín Vicuña Mackenna revelan que las raíces de esta antigua familia estaban amarradas a la misma fisonomía del paisaje interior: la Punta de los Reyes, aquel desfiladero rústico y rocoso que corona la entrada hacia El Salto, recibió históricamente ese nombre de boca de los viajeros por haber sido el lugar primitivo de asentamiento y custodia de estas ramas familiares, quienes controlaban las trancas del desfiladero mucho antes de que el tren a vapor transformara la geografía de la zona." },
+      { "t": "p", "x": "En su juventud, Bruno y Basilio se asentaron definitivamente hacia los límites orientales de la gigantesca Hacienda de las Siete Hermanas, en la entrada del desfiladero rústico. En esas laderas agrestes, mientras Bruno se convirtió con los años en el respetado y honrado «obsequioso portero» de las trancas que dominaban la ruta, las crónicas de Vicuña Mackenna guardan una línea más sombría sobre Basilio, mencionándolo brevemente al pasar como un «matador» envuelto en un trágico crimen de honor a puñal que costó la vida a Joaquín Carrera." },
       { "t": "contexto", "items": [
         { "k": "Geografía", "t": "La Punta de los Reyes", "x": "Antes de ser dinamitada y nivelada para dar paso al sector financiero de las actuales calles Prat y Blanco, la Punta de los Reyes era un promontorio rocoso natural que se internaba con furia en el mar. Vicuña Mackenna documenta que las familias criollas que allí se asentaron lidiaban a diario con los embates del oleaje antes de que el puerto se expandiera ganándole terreno a la bahía." },
-        { "k": "Topografía", "t": "El relieve de las Siete Hermanas", "x": "La Hacienda de las Siete Hermanas era un predio colosal que se extendía por el borde costero y los cerros orientales. El terreno estaba surcado por profundas e indómitas quebradas y densos bosques de matorral silvestre, un paisaje semisalvaje ideal para el refugio de arrieros, inquilinos e incluso disputas que se zanjaban bajo las leyes rurales de la época." } ] } ] },
+        { "k": "Topografía", "t": "El relieve de las Siete Hermanas", "x": "La Hacienda de las Siete Hermanas era un predio colosal que se extendía por el borde costero y los cerros orientales. El terreno estaba surcado por profundas e indómitas quebradas y densos bosques de matorral silvestre, donde sobresalian las palmas chilenas, un paisaje semisalvaje ideal para el refugio de arrieros, inquilinos e incluso disputas que se zanjaban bajo las leyes rurales de la época." } ] } ] },
     
     { "id": "c1822", "anio": "1822", "lugar": "Las Siete Hermanas", "titulo": "El testimonio de las palmas y el diario de una viajera", "familia": "reysoto", "bloques": [
       { "t": "p", "x": "Hacia 1822, el paisaje que habitaban los Rey quedó retratado bajo los ojos de la escritora e ilustradora inglesa Maria Graham durante su residencia en el puerto. En su célebre diario, Graham describe con fascinación y temor esas mismas quebradas de las Siete Hermanas por las que transitaba la familia, pintando una atmósfera de cerros escarpados donde el aislamiento y el peligro eran parte de la vida cotidiana." },
