@@ -76,10 +76,23 @@
     "francisco-berrios": { "nombre": "Francisco Rey Berrios", "familia": "berrios", "generacion": 5, "fechas": "n. 1883", "nacimiento": "1883", "lugar": "Catemu", "rol": "Hijo de Vicente y Eleuteria", "certeza": "Confirmado", 
       "historia": "Entre 1912 y 1915 logra que se le adjudiquen los derechos de la herencia sobre la propiedad de Maulecito (La Cruz, Quillota) y los cede a Francisco Vargas, quien ya la había comprado en 1912. Un Francisco Rey, quizá él, fue padrino de bautizo de su sobrino José Vicente en 1909.", "relacionados": ["vicente", "eleuteria"], "notas": [{ "t": "Adjudicación y cesión de derechos.", "fuente": "Registro de bienes raíces, 1912–1915" }] },
     
-    "santiago": { "nombre": "Santiago Segovia Neida", "familia": "segovia", "generacion": 4, "fechas": "c. 1850 – c. 1915", "nacimiento": "", "lugar": "San Esteban", "rol": "Padre de Margarita Segovia", "certeza": "En investigación", 
-      "historia": "Hijo de Fermín Segovia y Lucía Neida. Aunque la tradición familiar evoca un pasado como grandes terratenientes de una vasta hacienda en Coquimbito (Los Andes) que se extendía hacia la cordillera, los registros de propiedad apuntan a una realidad más precisa: el control de derechos agrícolas y tierras medianas en los sectores de «El Porvenir» y «El Sauce». Esta última zona era un nudo estratégico clave para la arriería y el transporte internacional. Hacia 1903, Santiago habitaba como vecino establecido en la calle Foncea de San Esteban, habiendo enviudado poco antes de Carmen Castillo Santibáñez.", "relacionados": ["margarita-segovia", "fermin-segovia"], 
-      "notas": [{ "t": "Mito vs. Registro", "x": "La tradición oral menciona una inmensa hacienda en Coquimbito, pero la fisonomía de la época muestra un valle ya fragmentado en hijuelas comerciales." }, { "t": "Evidencia de Bienes", "x": "Los nombres de los predios «El Porvenir» y «El Sauce» en el patrimonio de los Segovia confirman un arraigo firme en las rutas de tránsito hacia la precordillera de Los Andes." }] },
-    
+"santiago": { 
+  "nombre": "Santiago Segovia Neida", 
+  "familia": "segovia", 
+  "generacion": 4, 
+  "fechas": "c. 1850 – c. 1915", 
+  "nacimiento": "", 
+  "lugar": "San Esteban", 
+  "rol": "Padre de Margarita Segovia", 
+  "certeza": "Confirmada por registros históricos", 
+  "historia": "Hijo de Fermín Segovia y Lucía Neida. Los catastros agrícolas de la Provincia de Aconcagua de fines del siglo XIX e inicios del XX confirman la propiedad de Santiago Segovia sobre el Fundo Santa Rosa y porciones de los predios colindantes de «El Porvenir» y «El Sauce». Estas tierras, derivadas de la antigua partición de la Hacienda de Santa Rosa, se situaban de manera contigua a Coquimbito y representaban una franja de alto valor logístico y comercial en Los Andes, sirviendo como nudo estratégico para la arriería, el descanso del ganado transandino y la posterior ruta del Ferrocarril Trasandino hacia la cordillera. Hacia 1903, se encontraba establecido como vecino en la calle Foncea de San Esteban, habiendo enviudado poco antes de Carmen Castillo Santibáñez.", 
+  "relacionados": ["margarita-segovia", "fermin-segovia"], 
+  "notas": [    {
+      "t": "Fragmentación y Dispersión Patrimonial",
+      "x": "Tras el fallecimiento de Santiago Segovia a principios del siglo XX, el volumen del patrimonio agrícola original sufrió un proceso de atomización jurídica debido a las particiones hereditarias entre su numerosa descendencia. La subdivisión de los predios en múltiples hijuelas, sumada a la venta sucesiva de derechos a terceros y a la desprotección legal de herederos menores de edad en situación de orfandad, derivó en la pérdida total del rastro registral de los bienes para algunas de las ramas de la familia en las décadas posteriores."
+    }] 
+}
+
     "margarita-segovia": { "nombre": "Margarita Segovia Castillo", "familia": "segovia", "generacion": 5, "fechas": "1875 — 1909", "nacimiento": "1875", "lugar": "San Esteban", "rol": "Esposa de Isaías", "certeza": "Confirmado", 
       "historia": "Margarita Segovia Castillo nació en 1875, en Chile como hija de Santiago Segovia Neida y María del Carmen Castillo Santibáñez. Se casó con Isaías el 8 de enero de 1903 en la casa paterna de calle Foncea, en San Esteban, Los Andes. Murió el 9 de junio de 1909, en Chile, a la edad de 34 años tras dar a luz a José Vicente, y fue sepultada en San José, Catemu", 
       "relacionados": ["isaias", "santiago", "laura", "teresa", "margarita-rs", "jose-vicente"], 
@@ -180,7 +193,7 @@
     ]
   },
     { "id": "c1800", "anio": "c. 1800", "lugar": "Punta de los Reyes · Siete Hermanas", "titulo": "El asiento junto al mar y los dueños de las puntas rocosas", "familia": "reysoto", "bloques": [
-      { "t": "p", "x": "Alrededor de 1800 nace [[bruno-rey|Bruno Rey]], el «ño Bruno», junto a su hermano [[basilio-rey|Basilio Rey]], hijos de León y Mónica. Los relatos recopilados por Benjamín Vicuña Mackenna revelan que las raíces de esta antigua familia estaban amarradas a la misma fisonomía del paisaje interior: la Punta de los Reyes, aquel desfiladero rústico y rocoso que corona la entrada hacia El Salto, recibió históricamente ese nombre de boca de los viajeros por haber sido el lugar primitivo de asentamiento y custodia de estas ramas familiares, quienes controlaban las trancas del desfiladero mucho antes de que el tren a vapor transformara la geografía de la zona." },
+      { "t": "p", "x": "Alrededor de 1800 nace [[bruno-rey|Bruno Rey]], el «ño Bruno», junto a su hermano mayor [[basilio-rey|Basilio Rey]], y su hermana Antonia, son los hijos de León y Mónica. Los relatos recopilados por Benjamín Vicuña Mackenna revelan que las raíces de esta antigua familia estaban amarradas a la misma fisonomía del paisaje interior: la Punta de los Reyes, aquel desfiladero rústico y rocoso que corona la entrada hacia El Salto, recibió históricamente ese nombre de boca de los viajeros por haber sido el lugar primitivo de asentamiento y custodia de estas ramas familiares, quienes controlaban las trancas del desfiladero mucho antes de que el tren a vapor transformara la geografía de la zona." },
       { "t": "p", "x": "En su juventud, Bruno y Basilio se asentaron definitivamente hacia los límites orientales de la gigantesca Hacienda de las Siete Hermanas, en la entrada del desfiladero rústico. En esas laderas agrestes, mientras Bruno se convirtió con los años en el respetado y honrado «obsequioso portero» de las trancas que dominaban la ruta, las crónicas de Vicuña Mackenna guardan una línea más sombría sobre Basilio, mencionándolo brevemente al pasar como un «matador» envuelto en un trágico crimen de honor a puñal que costó la vida a Joaquín Carrera." },
       { "t": "contexto", "items": [
         { 
