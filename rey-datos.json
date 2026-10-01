@@ -183,18 +183,58 @@
       { "t": "p", "x": "Alrededor de 1800 nace [[bruno-rey|Bruno Rey]], el «ño Bruno», junto a su hermano [[basilio-rey|Basilio Rey]], hijos de León y Mónica. Los relatos recopilados por Benjamín Vicuña Mackenna revelan que las raíces de esta antigua familia estaban amarradas a la misma fisonomía del paisaje interior: la Punta de los Reyes, aquel desfiladero rústico y rocoso que corona la entrada hacia El Salto, recibió históricamente ese nombre de boca de los viajeros por haber sido el lugar primitivo de asentamiento y custodia de estas ramas familiares, quienes controlaban las trancas del desfiladero mucho antes de que el tren a vapor transformara la geografía de la zona." },
       { "t": "p", "x": "En su juventud, Bruno y Basilio se asentaron definitivamente hacia los límites orientales de la gigantesca Hacienda de las Siete Hermanas, en la entrada del desfiladero rústico. En esas laderas agrestes, mientras Bruno se convirtió con los años en el respetado y honrado «obsequioso portero» de las trancas que dominaban la ruta, las crónicas de Vicuña Mackenna guardan una línea más sombría sobre Basilio, mencionándolo brevemente al pasar como un «matador» envuelto en un trágico crimen de honor a puñal que costó la vida a Joaquín Carrera." },
       { "t": "contexto", "items": [
-        { "k": "Geografía", "t": "La Punta de los Reyes", "x": "Antes de ser dinamitada y nivelada para dar paso al sector financiero de las actuales calles Prat y Blanco, la Punta de los Reyes era un promontorio rocoso natural que se internaba con furia en el mar. Vicuña Mackenna documenta que las familias criollas que allí se asentaron lidiaban a diario con los embates del oleaje antes de que el puerto se expandiera ganándole terreno a la bahía." },
-        { "k": "Topografía", "t": "El relieve de las Siete Hermanas", "x": "La Hacienda de las Siete Hermanas era un predio colosal que se extendía por el borde costero y los cerros orientales. El terreno estaba surcado por profundas e indómitas quebradas y densos bosques de matorral silvestre, donde sobresalian las palmas chilenas, un paisaje semisalvaje ideal para el refugio de arrieros, inquilinos e incluso disputas que se zanjaban bajo las leyes rurales de la época." } ] } ] },
+        { 
+            "k": "Geografía", 
+            "t": "El embudo de El Salto y La Punta de los Reyes", 
+            "x": "La Quebrada de El Salto era un desfiladero oscuro y boscoso, propenso a rodados invernales y emboscadas. En sus cercanías, promontorios rústicos como el cerro El Olivar y la llamada Punta de los Reyes funcionaron como campamento de reposo para arrieros y punto de fiscalización de la carga antes del ingreso final al puerto." 
+          },
+          { 
+            "k": "Topografía", 
+            "t": "El relieve de las Siete Hermanas", 
+            "x": "La gigantesca Hacienda de las Siete Hermanas dominaba el borde costero con quebradas profundas, bosques de peumos, arrayanes y palmas chilenas. Un entorno semisalvaje donde el control comunal de trancas y portezuelos resultaba indispensable para la seguridad del comercio colonial y republicano." 
+          } ] } ] },
     
-    { "id": "c1822", "anio": "1822", "lugar": "Las Siete Hermanas", "titulo": "El testimonio de las palmas y el diario de una viajera", "familia": "reysoto", "bloques": [
-      { "t": "p", "x": "Hacia 1822, el paisaje que habitaban los Rey quedó retratado bajo los ojos de la escritora e ilustradora inglesa Maria Graham durante su residencia en el puerto. En su célebre diario, Graham describe con fascinación y temor esas mismas quebradas de las Siete Hermanas por las que transitaba la familia, pintando una atmósfera de cerros escarpados donde el aislamiento y el peligro eran parte de la vida cotidiana." },
-      { "t": "p", "x": "Esta indómita geografía costera es la que el propio «ño Bruno» recordaría décadas más tarde ante Vicuña Mackenna en sus crónicas de 1877. Siendo ya un anciano considerado la memoria viva del lugar, Bruno rememoraba los brutales aluviones coloniales de su juventud en las Siete Hermanas, donde la violencia de la naturaleza era tal que vio descender por las quebradas enormes palmas chilenas entrelazadas entre sí, corriendo hacia el mar como si fuesen balsas." },
-      { "t": "cita", "x": "«...En una de esas avenidas, recuerda uno de los antiguos vivientes de la hacienda—ño Bruno Reyes—haber visto pasar cuatro enormes palmas entrelazadas entre sí a manera de balsa, i que corrían hacia el mar con el desembarazo de un cesto de mimbres arrebatado por las aguas...» — Benjamín Vicuña Mackenna, 1877." },
-      { "t": "contexto", "items": [
-        { "k": "Crónica", "t": "El diario de Maria Graham", "x": "En su «Diario de mi residencia en Chile (1822)», la viajera inglesa dejó por escrito que las quebradas que colindaban con las Siete Hermanas albergaban frondosos boscajes de arrayanes, peumos y majestuosas palmas. Sin embargo, también advirtió sobre la presencia de hombres armados a caballo que bajaban del interior a refugiarse en la densidad de los cerros." },
-        { "k": "Una pista", "t": "El valor del «ño»", "x": "En los sectores rurales del siglo XIX, el tratamiento de «ño» (de Señor) era un reconocimiento de profundo respeto comunitario reservado para los hombres mayores que resguardaban la historia oral del territorio. Vicuña Mackenna recurrió a Bruno precisamente por ser el único capaz de reconstruir el Valparaíso que Maria Graham vio en 1822." } ] },
-      { "t": "nota", "titulo": "Un bucle en el territorio", "x": "La sutil mención del crimen de Basilio y los recuerdos de Bruno en estos cerros adquieren sentido pleno cuando la línea de tiempo avanza: en 1887, su sobrino nieto Vicente Rey Jara regresará a esta misma franja costera para comprar los terrenos familiares en calle Álvarez, a los pies de las mismas Siete Hermanas." } ] },
-  
+ { 
+    "id": "c1822", 
+    "anio": "1822", 
+    "lugar": "Las Siete Hermanas", 
+    "titulo": "El testimonio de las palmas y el diario de una viajera", 
+    "familia": "reysoto", 
+    "bloques": [
+      { 
+        "t": "p", 
+        "x": "Hacia 1822, la indómita geografía que custodiaban los Rey quedó retratada en el diario de la cronista e ilustradora inglesa Maria Graham. En sus escritos describe la fascinación y el riesgo de transitar por las quebradas de las Siete Hermanas, donde la densidad de la vegetación servía de refugio constante a hombres a caballo y troperos que descendían desde el interior." 
+      },
+      { 
+        "t": "p", 
+        "x": "Décadas más tarde, en 1877, Vicuña Mackenna recurrió a un ya anciano «ño Bruno» como memoria viva de la zona. Bruno rememoraba con nitidez la violencia de las grandes avenidas de agua en las quebradas de su juventud, viendo descender hacia la playa enormes palmas chilenas entrelazadas entre sí a modo de balsas gigantescas." 
+      },
+      { 
+        "t": "cita", 
+        "x": "«...En una de esas avenidas, recuerda uno de los antiguos vivientes de la hacienda—ño Bruno Reyes—haber visto pasar cuatro enormes palmas entrelazadas entre sí a manera de balsa, i que corrían hacia el mar con el desembarazo de un cesto de mimbres arrebatado por las aguas...» — Benjamín Vicuña Mackenna, 1877." 
+      },
+      { 
+        "t": "contexto", 
+        "items": [
+          { 
+            "k": "Crónica", 
+            "t": "El diario de Maria Graham", 
+            "x": "En su «Diario de mi residencia en Chile (1822)», Graham dejó testimonio del aislamiento y frondosidad del corredor costero, haciendo notar cómo las gargantas naturales de las Siete Hermanas conectaban las rutas interiores con el Pacífico." 
+          },
+          { 
+            "k": "Una pista", 
+            "t": "El valor del «ño»", 
+            "x": "En la cultura rural del siglo XIX, el tratamiento de «ño» (de Señor) denotaba un profundo respeto y autoridad comunitaria. Vicuña Mackenna acude a Bruno por ser el custodio no solo del acceso físico al lugar, sino de la memoria oral del territorio." 
+          }
+        ] 
+      },
+      { 
+        "t": "nota", 
+        "titulo": "Evolución de un patrimonio", 
+        "x": "La vigilancia de las trancas y la itinerancia por estos cerros adquieren pleno sentido al ver el salto generacional: en 1887, Vicente Rey Jara capitalizará la antigua tradición de transporte adquiriendo terrenos en la naciente ciudad de Viña del Mar en calle Álvarez, a los pies de las mismas Siete Hermanas y al compás del nuevo ferrocarril." 
+      } 
+    ] 
+  },
     { "id": "c1846", "anio": "c. 1846", "lugar": "Catemu", "titulo": "Un apellido con muchas maneras de escribirse", "familia": "jara", "bloques": [
       { "t": "p", "x": "Entre 1843 y 1849 nace [[vicente|Vicente Rey Jara]], hijo de [[bruno|Bruno Rey]] y [[dolores|Dolores Jara]]. De ellos sabemos poco más que los nombres. De Vicente, en cambio, sabemos que llegó a ser comerciante en San José de Catemu, con un pie en el negocio y otro en la tierra." },
       { "t": "p", "x": "Aquí conviene una advertencia: en los papeles no somos siempre Rey. Su hermana Margarita, costurera, firmaba «Reyes»; su primer hijo fue bautizado «Reyes Beas». Los curas escribían lo que oían, y a nosotros nos toca leer entre líneas." },
