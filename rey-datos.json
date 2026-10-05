@@ -306,12 +306,13 @@
       { "t": "p", "x": "Los hermanos mayores quedan al cuidado de la familia de Carlos Cruz, juez del crimen del pueblo. El pequeño se cría con la niñera de la familia. De Isaías Rey no volvemos a saber nada." },
       { "t": "medio", "id": "bautizos" },
       { "t": "medio", "id": "capilla" },
-      { "t": "nota", "titulo": "Pregunta abierta", "x": "Una hipótesis dice que Isaías murió antes de 1914 en el Puerto de Valparaíso, según un índice de defunciones del Registro Civil que aún no se ha revisado completo. ¿Alguien sabe qué fue de él?" } ] },
+      { "t": "nota", "titulo": "Fragilidad familiar", "x": "En el Chile del siglo XIX y principios del XX, la muerte materna prematura quebraba el hogar rural. Para sostener la crianza, la respuesta común del hombre era casarse de nuevo rápidamente; sin embargo, cuando este núcleo colapsaba, la prole solía dispersarse entre familiares y allegados. La orfandad popular no siempre significaba falta de padres, sino familias fragmentadas por la supervivencia." } ] },
     
-    { "id": "c1912", "anio": "1912", "lugar": "Quillota · La Cruz", "titulo": "La herencia y los hermanos separados", "familia": "berrios", "bloques": [
+    { "id": "c1912", "anio": "1912", "lugar": "Valparaíso", "titulo": "La herencia y los hermanos separados", "familia": "berrios", "bloques": [
       { "t": "p", "x": "Entre 1912 y 1915 aparece la herencia de Vicente, muerto en 1906, y de varios de sus hijos. Los papeles hablan de una propiedad en Maulecito, en La Cruz, Quillota, y nombran a los herederos: Carolina, casada con un Yáñez; Rosa, con un Ponce; Elcira, con un Cataldo; y Alberto, Elena y [[francisco-berrios|Francisco]]." },
       { "t": "p", "x": "Francisco se adjudica los derechos y se los cede a Francisco Vargas, que había comprado la propiedad en 1912. También figuran todos los hijos Rey Segovia." },
       { "t": "p", "x": "Mientras tanto los cinco hermanos Rey Segovia crecen separados. [[jose-vicente|José Vicente]], el menor, deja un daguerrotipo en cobre de hacia 1914." },
+      { "t": "nota", "titulo": "Pregunta abierta", "x": "Una hipótesis dice que Isaías murió antes de 1914 en el Puerto de Valparaíso, según un índice de defunciones del Registro Civil que aún no se ha revisado completo. ¿Alguien sabe qué fue de él?" },
       { "t": "medio", "id": "daguerrotipo" } ] },
     
     { "id": "c1920", "anio": "1920 – 1944", "lugar": "Santiago · Viña del Mar", "titulo": "Cada hermano, un camino", "familia": "rubilar", "bloques": [
