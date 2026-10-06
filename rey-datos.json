@@ -158,6 +158,7 @@
   "capitulos": [
     
     { "id": "c1715", "anio": "c. 1715", "lugar": "Valle del Aconcagua", "titulo": "El patriarca en los tiempos del Rey de España", "familia": "toribio", "bloques": [
+       { "t": "p", "x": "Para entender nuestro linaje debemos viajar a la primera mitad del siglo XVIII, cuando nuestras raíces se hundieron en los valles de la actual Región de Valparaíso. En ese Chile colonial de tierras indómitas y haciendas solitarias, las ciudades modernas aún no existían. La vida de nuestros antepasados transcurría al ritmo pausado del campo, regida por los ciclos de la tierra, la devoción religiosa y las tertulias a la luz de las velas. En esa cotidianidad de sencillez y rigor, ellos fundaron los cimientos de la familia que somos hoy." },
       { "t": "p", "x": "A principios del siglo XVIII, mucho antes de que existieran ciudades o registros civiles, la familia asienta sus primeras huellas con [[toribio-rey|Toribio Rey]]. Vivió bajo el sistema de la Capitanía General de Chile, en un valle habitado por criollos dispersos donde la Iglesia Católica era el único testigo de los nacimientos y las muertes." },
       { "t": "contexto", "items": [
         { "k": "Contexto", "t": "El Chile de las estancias", "x": "En la primera mitad del 1700, el Valle del Aconcagua no tenía villas. La población vivía dispersa en inmensas propiedades rurales. El control de la Corona española era difuso y la vida se organizaba en torno a la fe y la subsistencia." },
