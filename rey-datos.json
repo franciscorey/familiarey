@@ -16,10 +16,10 @@
   },
   "familias": {
     "monzon": { 
-        "nombre": "Rey Monzzon", "color": "#94828f", "lugar": "Valle del Aconcagua", "periodo": "c. 1715 – 1780", "resumen": "Toribio Rey y los primeros criollos dispersos bajo el sistema de la Capitanía General de Chile." 
+        "nombre": "Rey Monzzon", "color": "#94828f", "lugar": "Valle del Aconcagua", "periodo": "c. 1715 – 1780", "resumen": "." 
     },
     "arias": { 
-        "nombre": "Rey Arias", "color": "#c2a68f", "lugar": "Villa de San Felipe el Real", "periodo": "c. 1740 – 1810", "resumen": "El arraigo urbano: Francisco y el nacimiento de la villa bajo el amparo de un linaje de funcionarios y milicias coloniales." 
+        "nombre": "Rey Arias", "color": "#c2a68f", "lugar": "Valle del Aconcagua", "periodo": "c. 1740 – 1810", "resumen": "." 
     },
     "soto": { 
         "nombre": "Rey Soto", "color": "#a89b82", "lugar": "Punta de los Reyes · Viña", "periodo": "c. 1770 – 1840", "resumen": "La transición a la República: León, Mónica y las rutas de arriería que conectaron el interior con los cerros del puerto." 
