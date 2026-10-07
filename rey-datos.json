@@ -44,23 +44,32 @@
     }
   },
   "personas": {
-    "francisco-rm": { "nombre": "Francisco Rey Monzzon", "familia": "monzzon", "generacion": 1, "fechas": "por investigar", "nacimiento": "c. 1740", "lugar": "", "rol": "Padre de León", "certeza": "Por confirmar", 
+    "francisco-rm": { "nombre": "Francisco Rey Monzzon", "familia": "monzzon", "generacion": 1, "fechas": "por investigar", "nacimiento": "c. 1740", "lugar": "", "rol": "Hijo de los Rey Monzón, Padre de los Rey Arias", "certeza": "Por confirmar", 
       "historia": "Francisco Xavier Rey Monzzon nació como hijo de Toribio Rey y Ignacia Monzzon. Se casó con Juana Arias Albarado el 1 de marzo de 1772, en Matriz del Salvador, Valparaíso, Valparaíso, Chile. Fueron padres de por lo menos 6 hijos y 3 hijas.", "relacionados": ["monica", "leon"], "notas": [] },
     
-    "leon": { "nombre": "León Rey", "familia": "arias", "generacion": 2, "fechas": "por investigar", "nacimiento": "c. 1770", "lugar": "", "rol": "Padre de Bruno", "certeza": "Por confirmar", 
+    "leon": { "nombre": "León Rey", "familia": "arias", "generacion": 2, "fechas": "por investigar", "nacimiento": "c. 1770", "lugar": "", "rol": "Hijo de los Rey Arias, Padre de los Rey Soto", "certeza": "Por confirmar", 
       "historia": "León Rey Arias nació en Valparaíso, Chile como hijo de Francisco Xavier Rey Monzzon y Juana Arias Albarado. Se casó con Monica Soto en Valparaíso, Chile. Fueron padres de por lo menos 7 hijos y 2 hijas.", "relacionados": ["monica", "bruno"], "notas": [] },
     
-    "basilio": { "nombre": "Basilio Rey", "familia": "soto", "generacion": 3, "fechas": "c. 1789 - 1851", "nacimiento": "c. 1789", "lugar": "Viña del Mar", "rol": "Hermano de Bruno", "certeza": "Por confirmar", 
+    "basilio": { "nombre": "Basilio Rey", "familia": "soto", "generacion": 3, "fechas": "c. 1789 - 1851", "nacimiento": "c. 1789", "lugar": "Viña del Mar", "rol": "Hijo mayor de los Rey Soto, Hermano de Bruno", "certeza": "Por confirmar", 
       "historia": "Hijo de León Rey, Basilio Reyes y su hermano Bruno fueron humildes cuidadores y porteros de las trancas en el paso de la Punta de los Reyes y los cerros de las Siete Hermanas durante el siglo XIX. Basilio quedó especialmente inmortalizado por protagonizar un crimen donde supuestamente mata a Joaquin Carrera.", "relacionados": ["dolores", "vicente"], "notas": [] },
     
-    "bruno": { "nombre": "Bruno Rey", "familia": "soto", "generacion": 3, "fechas": "c. 1800 - 1884", "nacimiento": "c. 1800", "lugar": "Viña del Mar", "rol": "Padre de Vicente", "certeza": "Por confirmar", 
-      "historia": "Nacido alrededor de 1800 e hijo de León Rey. Fue un humilde, honrado y obsequioso campesino que habitaba en el sector del desfiladero. Se desempeñó como el portero custodio de las trancas que controlaban el paso de carretas y viajeros, vivió en la Punta de los Reyes. Es el padre de Vicente Rey Jara y de al menos tres hijas.", "relacionados": ["dolores", "vicente"], "notas": [] },
+    "bruno": { "nombre": "Bruno Rey", "familia": "soto", "generacion": 3, "fechas": "c. 1800 - 1884", "nacimiento": "c. 1800", "lugar": "Viña del Mar", "rol": "Padre de los Rey Jara", "certeza": "Por confirmar", 
+      "historia": "Nacido alrededor de 1800 e hijo de León Rey. Fue un humilde, honrado y obsequioso campesino que habitaba en el sector del Olivar, cerca de la antigua Haceinda de las Siete Hermanas. Se desempeñó como el portero custodio de las trancas que controlaban el paso de carretas y viajeros, vivió en la Punta de los Reyes. Es el padre de Vicente Rey Jara y de al menos tres hijas.", "relacionados": ["dolores", "vicente"], "notas": [] },
     
-    "dolores": { "nombre": "Dolores Jara", "familia": "jara", "generacion": 3, "fechas": "c. 1820 - 1848", "nacimiento": "c. 1820", "lugar": "Casablanca", "rol": "Madre de Vicente", "certeza": "Por confirmar", 
+    "dolores": { "nombre": "Dolores Jara", "familia": "jara", "generacion": 3, "fechas": "c. 1820 - 1848", "nacimiento": "c. 1820", "lugar": "Casablanca", "rol": "Madre de los Rey Jara", "certeza": "Por confirmar", 
       "historia": "Madre de Vicente. De ella conservamos el apellido, que pasó a nombrar toda una rama. Fallece en agosto de 1848 a los 28 años.", "relacionados": ["bruno", "vicente"], "notas": [] },
     
-    "vicente-rj": { "nombre": "Vicente Rey Jara", "familia": "jara", "generacion": 4, "fechas": "c. 1846 — 1906", "nacimiento": "entre 1843 y 1849", "lugar": "Catemu", "rol": "Comerciante y agricultor", "certeza": "Confirmado", 
+    "vicente-rj": { "nombre": "Vicente Rey Jara", "familia": "jara", "generacion": 4, "fechas": "c. 1843 — 1906", "nacimiento": "c. 1843", "lugar": "Catemu", "rol": "Padre de los Rey Veas, Comerciante y agricultor", "certeza": "Confirmado", 
       "historia": "Comerciante y agricultor de San José de Catemu. Se casó dos veces, formó dos hogares y declaró domicilio en San José, Las Máquinas, Varillas y Reinoso. En 1887 compró un terreno en Viña del Mar. Murió en 1906.", "relacionados": ["bruno", "dolores", "carmen", "eleuteria", "isaias"], "notas": [{ "t": "Su firma, hacia 1890.", "fuente": "Documento familiar (Fig. 3)" }, { "t": "Su herencia se tramita entre 1912 y 1915.", "fuente": "Registro de bienes raíces" }] },
+
+ "felipa-rj": { "nombre": "Felipa Rey Jara", "familia": "jara", "generacion": 4, "fechas": "c. 1839 — 1905", "nacimiento": "c. 1839", "lugar": "Valparaiso", "rol": "Hija mayor de los Rey Jara, Hermana de Vicente", "certeza": "Confirmado", 
+      "historia": "", "relacionados": ["bruno", "vicente"], "notas": [{ "t": "", "fuente": "Registro de defunción" }] },
+
+     "margarita-rj": { "nombre": "Margarita Rey Jara", "familia": "jara", "generacion": 4, "fechas": "c. 1848 — ", "nacimiento": "c. 1848", "lugar": "Valparaiso", "rol": "Hija de los Rey Jara, Hermana de Vicente", "certeza": "Confirmado", 
+      "historia": "", "relacionados": ["bruno", "vicente"], "notas": [{ "t": "", "fuente": "Registro de defunción" }] },
+
+     "majesus-rj": { "nombre": "María Jesús Rey Jara", "familia": "jara", "generacion": 4, "fechas": "c. 1856 — 1901", "nacimiento": "c. 1846-56", "lugar": "Valparaiso", "rol": "Hija de los Rey Jara, Hermana de Vicente", "certeza": "Confirmado", 
+      "historia": "", "relacionados": ["bruno", "vicente"], "notas": [{ "t": "Su edad según acta de defunción no concuerda con su edad real, sucede a la muerte de su madre", "fuente": "Registro de defunción" }] },
     
     "carmen": { "nombre": "María del Carmen Veas Méndez", "familia": "veas", "generacion": 4, "fechas": "1851 — 1881", "nacimiento": "1851", "lugar": "Catemu", "rol": "Primera esposa de Vicente", "certeza": "Confirmado", 
       "historia": "Hija de José Mercedes Veas y María Méndez, de una familia al parecer oriunda de Quillota. Se casó con Vicente el 19 de enero de 1874 y murió a los treinta años, al dar a luz a su hija María del Carmen.", "relacionados": ["vicente", "isaias", "eleuteria"], "notas": [{ "t": "Su apellido aparece como Beas, Veas o Vea.", "fuente": "Actas de matrimonio y bautizo" }] },
