@@ -164,6 +164,7 @@
     "curico-1950": { "archivo": "familias/acosta/curico-1950.jpg", "tipo": "Fotografía familiar", "pie": "Familia Rey Acosta, Curicó, c. 1950. Con Teresa, Margarita, Lucila, Eriz, Manuel, Franklin, Hugo y Sonia, junto a Rosa y Vicente.", "familia": "acosta", "personas": ["jose-vicente", "rosa", "margarita-ra", "lucila", "hugo", "manuel"] },
     "curico-1982": { "archivo": "familias/acosta/curico-1982.jpg", "tipo": "Fotografía familiar", "pie": "Familia Rey Acosta, Curicó, c. 1982.", "familia": "acosta" }
   },
+  
   "capitulos": [
     
     { "id": "c1715", "anio": "c. 1715", "lugar": "Valle del Aconcagua", "titulo": "El patriarca en los tiempos del Rey de España", "familia": "toribio", "bloques": [
@@ -173,23 +174,17 @@
         { "k": "Contexto", "t": "El Chile de las estancias", "x": "En la primera mitad del 1700, el Valle del Aconcagua no tenía villas. La población vivía dispersa en inmensas propiedades rurales. El control de la Corona española era difuso y la vida se organizaba en torno a la fe y la subsistencia." },
         { "k": "Una pista", "t": "Rastrear sin registros", "x": "Llegar a Toribio es un hito: su existencia no se conoce por un acta directa, sino por la indexación masiva de microfilms eclesiásticos que lo mencionan como padre en generaciones posteriores." } ] } ] },
     
-  {
-    "id": "c1740",
+  { "id": "c1740",
     "anio": "c. 1740",
     "lugar": "Corredor del Aconcagua a la Costa",
     "titulo": "Una familia que busca su lugar",
     "familia": "monzon",
     "bloques": [
       { "t": "p", "x": "Alrededor de 1740 nace [[francisco-rey|Francisco Rey Monzón]], hijo de Toribio. Su nacimiento coincide de forma exacta con un cambio geopolítico clave: la fundación oficial de San Felipe el Real por el gobernador Manso de Velasco. Para poblar la villa, la Corona atrajo a comerciantes y milicias locales, entorno donde la rama materna de Francisco, los Monzón, poseía cierta influencia." },
-      { "t": "p", "x": "Francisco firma y se registra uniendo ambos apellidos. En una sociedad colonial fuertemente jerarquizada, el uso del apellido compuesto Rey Monzón funcionaba como una herramienta de validación local y una estrategia para asegurar derechos de tierras y herencias en el nuevo plano urbano." },
       { "t": "contexto", "items": [
-        { "k": "Contexto", "t": "Las poblaciones borbónicas", "x": "La fundación de San Felipe en 1740 buscaba concentrar a los habitantes rurales para controlarlos mejor y cobrar impuestos. La nueva villa se convirtió rápidamente en un punto estratégico porque controlaba el tráfico hacia el camino cordillerano de Mendoza." }
-      ] }
-    ]
-  },
+        { "k": "Contexto", "t": "Las poblaciones borbónicas", "x": "La fundación de San Felipe en 1740 buscaba concentrar a los habitantes rurales para controlarlos mejor y cobrar impuestos. La nueva villa se convirtió rápidamente en un punto estratégico porque controlaba el tráfico hacia el camino cordillerano de Mendoza." } ] } ] },
 
-  {
-    "id": "c1770",
+  { "id": "c1770",
     "anio": "c. 1770",
     "lugar": "Corredor del Aconcagua a la Costa",
     "titulo": "La era de los arrieros y las rutas hacia el interior costeño",
