@@ -98,9 +98,9 @@
   "relacionados": ["margarita-segovia", "fermin-segovia"], 
   "notas": [    {
       "t": "Fragmentación y Dispersión Patrimonial",
-      "x": "Tras el fallecimiento de Santiago Segovia a principios del siglo XX, el volumen del patrimonio agrícola original sufrió un proceso de atomización jurídica debido a las particiones hereditarias entre su numerosa descendencia. La subdivisión de los predios en múltiples hijuelas, sumada a la venta sucesiva de derechos a terceros y a la desprotección legal de herederos menores de edad en situación de orfandad, derivó en la pérdida total del rastro registral de los bienes para algunas de las ramas de la familia en las décadas posteriores."
+      "x": "Tras el fallecimiento de Santiago Segovia a principios del siglo XX, Hubo fragmentación del patrimonio por particiones hereditarias, donde los herederos mas indefensos no tuvieron parte alguna."
     }] 
-}
+},
 
     "margarita-segovia": { "nombre": "Margarita Segovia Castillo", "familia": "segovia", "generacion": 5, "fechas": "1875 — 1909", "nacimiento": "1875", "lugar": "San Esteban", "rol": "Esposa de Isaías", "certeza": "Confirmado", 
       "historia": "Margarita Segovia Castillo nació en 1875, en Chile como hija de Santiago Segovia Neida y María del Carmen Castillo Santibáñez. Se casó con Isaías el 8 de enero de 1903 en la casa paterna de calle Foncea, en San Esteban, Los Andes. Murió el 9 de junio de 1909, en Chile, a la edad de 34 años tras dar a luz a José Vicente, y fue sepultada en San José, Catemu", 
@@ -116,7 +116,7 @@
     "margarita-rs": { "nombre": "María Margarita Rey Segovia", "familia": "segovia", "generacion": 6, "fechas": "n. 1906", "nacimiento": "1906", "lugar": "Catemu", "rol": "Tercera hija", "certeza": "Confirmado", 
       "historia": "Se casó con Luis Ravello y vivió en Santiago. Tuvieron dos hijos, Luis y Adriana Ravello Rey, con quienes posa en una foto de 1934.", "relacionados": ["laura", "teresa"], "notas": [{ "t": "Fotografía con sus hijos, 1934.", "fuente": "Colección familiar (Fig. 12)" }] },
     
-    "isaias": { "nombre": "Isaías Rey Segovia", "familia": "rubilar", "generacion": 6, "fechas": "n. 1907", "nacimiento": "21 nov 1907", "lugar": "Catemu", "rol": "Hijo de Isaías y Margarita", "certeza": "Confirmado", 
+    "isaias-rs": { "nombre": "Isaías Rey Segovia", "familia": "rubilar", "generacion": 6, "fechas": "n. 1907", "nacimiento": "21 nov 1907", "lugar": "Catemu", "rol": "Hijo de Isaías y Margarita", "certeza": "Confirmado", 
       "historia": "Bautizado diecisiete días después de nacer en la parroquia de Catemu. Se casó con Mercedes Rubilar y formó su hogar en Viña del Mar.", "relacionados": ["mercedes-rubilar", "jose-vicente", "isaias"], "notas": [{ "t": "Acta de bautizo del 8 de diciembre de 1907.", "fuente": "Parroquia de San José de Catemu (Fig. 8)" }, { "t": "Fotografía c. 1925.", "fuente": "Colección familiar (Fig. 13)" }] },
     
     "mercedes-rubilar": { "nombre": "Mercedes Rubilar", "familia": "rubilar", "generacion": 6, "fechas": "1915 — 2002", "nacimiento": "1915", "lugar": "Viña del Mar", "rol": "Esposa de Isaías Rey Segovia", "certeza": "Confirmado", 
@@ -287,13 +287,13 @@
       { "t": "nota", "titulo": "Una postal con historia", "x": "Adelaida Fajardo de Berrios, cuñada de Eleuteria, conocía a Margarita Segovia. Una postal de 1895 con la imagen de Margarita, dirigida a Adelaida, llegó hasta nosotros. Margarita volverá a aparecer en esta historia." } ] },
     
     { "id": "c1903", "anio": "1903", "lugar": "San Esteban · Catemu", "titulo": "La huida de Isaías y Margarita", "familia": "segovia", "bloques": [
-      { "t": "p", "x": "El 8 de enero de 1903 [[isaias|Isaías Rey Veas]], comerciante de 27 años, se casa con [[margarita-segovia|Margarita Segovia Castillo]] en la casa de los Segovia, en calle Foncea, San Esteban. Su padre, [[santiago|Santiago Segovia]], acababa de enviudar." },
+      { "t": "p", "x": "El 8 de enero de 1903 [[isaias-rv|Isaías Rey Veas]], comerciante de 27 años, se casa con [[margarita-segovia|Margarita Segovia Castillo]] en la casa de los Segovia, en calle Foncea, San Esteban. Su padre, [[santiago|Santiago Segovia]], acababa de enviudar." },
       { "t": "p", "x": "La historia familiar cuenta que Santiago no aceptó de buena gana la relación y que la pareja «huyó» de la casa. Sea cierto o no, terminaron viviendo en la hijuela La Higuera, en la Hacienda de Catemu, donde el 9 de octubre nace [[laura|Laura Noemí]]." },
       { "t": "medio", "id": "acta-1903" },
-      { "t": "p", "x": "Después llegan [[teresa|Teresa]] (1905), [[margarita-rs|María Margarita]] (1906) e Isaías (1907). En 1905, además, un sobrino se enferma de viruela en El Almendral y muere." },
+      { "t": "p", "x": "Después llegan [[teresa-rs|Teresa Rey]] (1905), [[margarita-rs|María Margarita Rey]] (1906) e  [[isaias-rs|Isaías Rey Segovia]] (1907)." },
       { "t": "medio", "id": "foto-1907" },
       { "t": "contexto", "items": [
-        { "k": "Contexto", "t": "La Hacienda de Catemu", "x": "La Higuera, San José, Varillas y Reinoso eran hijuelas de la Hacienda de Catemu, propiedad de los García-Huidobro. Aún se vivía del inquilinaje: familias que pagaban arriendo por vivir y trabajar la tierra, siembras de trigo y cebada, chacras de maíz y papa y algo de tabaco." },
+        { "k": "Contexto", "t": "La Hacienda de Catemu", "x": "La Higuera, San José, Varillas y Reinoso eran hijuelas de la Hacienda de Catemu, propiedad de los García-Huidobro. Aún se vivía del inquilinaje: familias que pagaban arriendo por vivir y trabajar del trabajo agrícola." },
         { "k": "Contexto", "t": "Dos ciudades, dos aires", "x": "En San Felipe mandaba el tono conservador y señorial de las haciendas, y Los Andes, con su ir y venir de gente y mercaderías, tenía aire de puerto. En 1910 el Ferrocarril Trasandino reforzó ese carácter." } ] } ] },
     
     { "id": "c1906", "anio": "1906", "lugar": "Valparaíso · Catemu", "titulo": "La noche en que la tierra sepultó al patriarca", "familia": "jara", "bloques": [
